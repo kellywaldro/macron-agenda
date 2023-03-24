@@ -1,0 +1,731 @@
+date,month,time,desc,type,year,event
+2022-01-03,01,13h15,"Déjeuner avec M. Jean CASTEX, Premier ministre.",Déjeuner,2022,True
+2022-01-04,01,18h00,Déplacement au Conseil d’État.,Déplacement,2022,True
+2022-01-05,01,09h30,Conseil de défense COVID-19.,Conseil de défense,2022,True
+2022-01-05,01,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-01-05,01,18h00,Rencontre avec les autorités religieuses.,Rencontre,2022,True
+2022-01-06,01,14h00,"Ouverture du Congrès de la Fédération des acteurs de la solidarité, en visioconférence.",Réunion,2022,True
+2022-01-06,01,16h30,Rencontre avec les membres du Conseil constitutionnel.,Rencontre,2022,True
+2022-01-06,01,18h30,"Cérémonie de remise du prix de la personnalité de l’année par la Revue du vin de France, à la mairie du Vème arrondissement de Paris.",Cérémonie officielle,2022,True
+2022-01-06,01,20h30,Dîner de travail avec les membres de la Commission européenne.,Dîner,2022,True
+2022-01-07,01,09h00,"Cérémonie d’hommage à Jean Monnet et Simone Veil, au Panthéon.",Cérémonie officielle,2022,True
+2022-01-07,01,10h00,"Entretien avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Entretien,2022,True
+2022-01-07,01,11h45,"Conférence de presse conjointe avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Conférence de presse,2022,True
+2022-01-10,01,Toute la journée,Déplacement dans les Alpes-Maritimes.,Déplacement,2022,True
+2022-01-11,01,11h30,"Remise du rapport « Les Lumières à l'ère numérique », par le sociologue M. Gérald BRONNER, président de la Commission, et ses membres.",Remise de rapport,2022,True
+2022-01-11,01,13h00,"Déjeuner de travail avec M. Charles MICHEL, Président du Conseil européen.",Déjeuner,2022,True
+2022-01-11,01,17h00,"Rencontre avec des membres de l’Association de la Presse Présidentielle (APP), ainsi que des membres des associations, organisations et syndicats de presse.",Conférence de presse,2022,True
+2022-01-12,01,09h30,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-01-12,01,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-01-12,01,12h30,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-01-12,01,16h00,Présentation de la galette de l’Epiphanie et remise des trophées des Rabelais des jeunes talents.,Réception,2022,True
+2022-01-13,01,10h00,"Entretien avec M. Thierry BURKHARD, Chef d’Etat-Major des armées.",Entretien,2022,True
+2022-01-13,01,11h00,"Entretien en visioconférence avec M. Pedro SANCHEZ, Président du Gouvernement d’Espagne.",Entretien,2022,True
+2022-01-13,01,16h00,Entretien avec l’Amiral Philippe de GAULLE.,Entretien,2022,True
+2022-01-13,01,17h30,"Clôture du Congrès de la Conférence des présidents d’université, à l’occasion du 50ème anniversaire.",Entretien,2022,True
+2022-01-17,01,10h00,"Entretien avec M. Mark COSTA, président directeur général de l’entreprise américaine Eastman.",Entretien,2022,True
+2022-01-17,01,11h00,"Entretien avec M. Vasant NARASIMHAN, Président directeur général de Novartis.",Entretien,2022,True
+2022-01-17,01,Après-midi,Déplacement sur le site Alsachimie (BASF) dans le Haut-Rhin.,Déplacement,2022,True
+2022-01-17,01,18h00,"Cérémonie d’hommage au président du Parlement européen, M. David Sassoli.",Cérémonie officielle,2022,True
+2022-01-18,01,09h00,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-01-18,01,10h30,"Entretien avec M. Jean-Yves LE DRIAN, ministre de l'Europe et des Affaires étrangères et Mme Florence PARLY, ministre des Armées.",Entretien,2022,True
+2022-01-18,01,13h00,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-01-19,01,11h00,Déplacement du Président de la République au Parlement européen à Strasbourg.,Déplacement,2022,True
+2022-01-19,01,16h00,"Visite aux Armées sur le camp d’Oberhoffen, à Haguenau, dans le Bas-Rhin.",Discours,2022,True
+2022-01-20,01,09h00,Conseil de défense Covid-19.,Conseil de défense,2022,True
+2022-01-20,01,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-01-20,01,16h00,"Inauguration du lieu « le19M », espace de rencontres dédié à la création et à la transmission des métiers d'art de la mode, à Aubervilliers.",Déplacement,2022,True
+2022-01-20,01,19h30,Annonce et remise des prix aux 100 lauréats French Design.,Cérémonie officielle,2022,True
+2022-01-24,01,Toute la journée,Déplacement dans la Creuse.,Déplacement,2022,True
+2022-01-25,01,Matin,Déplacement dans la Haute-Vienne.,Déplacement,2022,True
+2022-01-25,01,Après-midi,Déplacement du Président de la République à Berlin.,Déplacement,2022,True
+2022-01-26,01,09h00,Conseil restreint de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-01-26,01,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-01-26,01,13h00,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-01-26,01,16h00,Rencontre avec des représentants de rapatriés d’Algérie.,Rencontre,2022,True
+2022-01-27,01,10h30,"Entretien avec M. Paolo GENTILONI, commissaire européen à l’économie.",Entretien,2022,True
+2022-01-27,01,15h30,"Visio conférence avec des élus des départements et collectivités d’outre-mer, actuellement en état d’urgence sanitaire.",Réunion,2022,True
+2022-02-01,02,09h00,Conseil restreint de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-02-01,02,10h30,"Entretien avec M. Jean-Yves LE DRIAN, ministre de l'Europe et des Affaires  étrangères.",Entretien,2022,True
+2022-02-01,02,13h15,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-02-01,02,15h00,"Entretien téléphonique avec M. Justin TRUDEAU, Premier ministre du Canada.",Entretien,2022,True
+2022-02-01,02,17h30,"Entretien avec Monseigneur Pascal GOLLNISCH, directeur général de l'Œuvre  d'Orient et M. Charles PERSONNAZ, directeur de l’Institut national du  patrimoine.",Entretien,2022,True
+2022-02-01,02,18h00,"Rencontre consacrée aux actions de la France en faveur des chrétiens d’Orient,  suivie de la remise de décoration à Monseigneur Pascal GOLLNISCH.",Rencontre,2022,True
+2022-02-02,02,09h00,Conseil de défense Covid-19.,Conseil de défense,2022,True
+2022-02-02,02,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-02-02,02,11h50,Participation vidéo à l’événement organisé par la Fondation Abbé Pierre à l’occasion de la présentation de son 27ème rapport annuel sur l’état du mal-logement en France.,Rencontre,2022,True
+2022-02-02,02,Après-midi,"Déplacement dans le Pas-de-Calais à Liévin pour une rencontre avec les élus et  les acteurs du bassin minier, puis au Louvre Lens.",Déplacement,2022,True
+2022-02-02,02,18h00,Déplacement dans le Nord à Tourcoing à l’occasion de la réunion informelle des  ministres chargés de la Justice et des Affaires intérieures (JAI) organisée dans le cadre de la Présidence française du Conseil de l’Union européenne.,Déplacement,2022,True
+2022-02-02,02,23h30,"Entretien téléphonique avec Joe BIDEN, Président des États-Unis d'Amérique.",Entretien,2022,True
+2022-02-03,02,10h30,"Entretien en visioconférence avec Charles MICHEL, Président du Conseil Européen.",Entretien,2022,True
+2022-02-03,02,12h30,"Entretien téléphonique avec Andrzej DUDA , Président de la République de Pologne.",Entretien,2022,True
+2022-02-03,02,18h00,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-02-03,02,19h30,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-05,02,12h30,"Entretien téléphonique avec Jens STOLTENBERG, Secrétaire général de l’OTAN.",Entretien,2022,True
+2022-02-07,02,10h00,Participation vidéo au Forum des mondes méditerranéens.,Réunion,2022,True
+2022-02-07,02,Toute la journée,Déplacement en Fédération de Russie.,Déplacement,2022,True
+2022-02-08,02,Toute la journée,Déplacements en Ukraine et en République fédérale d’Allemagne.,Déplacement,2022,True
+2022-02-09,02,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-02-10,02,Toute la journée,Déplacement dans le Territoire de Belfort.,Déplacement,2022,True
+2022-02-11,02,Toute la journée,"Présidence du segment de haut niveau du « One Ocean Summit », à Brest.",Sommet,2022,True
+2022-02-11,02,20h00,"Dîner de lancement de la Saison croisée France Portugal en présence de M. Marcelo REBELO DE SOUSA, Président de la République portugaise.",Dîner,2022,True
+2022-02-14,02,12h00,"Entretien avec Mme Samia SULUHU, Présidente de la République unie de Tanzanie.",Entretien,2022,True
+2022-02-14,02,17h00,Entretien avec l’amiral Philippe de GAULLE.,Entretien,2022,True
+2022-02-15,02,09h00,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-02-15,02,09h30,Conseil de défense Covid-19.,Conseil de défense,2022,True
+2022-02-15,02,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-02-15,02,13h00,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-02-15,02,19h00,"Remise du rapport annuel de la Cour des comptes par M. Pierre MOSCOVICI, Premier président de la Cour des comptes.",Remise de rapport,2022,True
+2022-02-16,02,Après-midi,"Déplacement en Haute-Garonne à Toulouse à l’occasion de la réunion informelle des ministres européens chargés de l’Espace, organisée dans le cadre de la présidence française du Conseil de l’Union européenne.",Déplacement,2022,True
+2022-02-16,02,18h00,"Conférence de l’Agence française de développement « Investir ensemble, pour une nouvelle alliance entre l’Afrique et l’Europe » en amont du Sommet UE-UA, à Station F.",Conférence,2022,True
+2022-02-17,02,09h00,Conférence de presse sur l'engagement de la France et de ses partenaires au Sahel.,Conférence de presse,2022,True
+2022-02-17,02,Après-midi,"Sommet Union Européenne - Union Africaine, à Bruxelles",Sommet,2022,True
+2022-02-18,02,Toute la journée,"Sommet Union Européenne - Union Africaine, à Bruxelles.",Sommet,2022,True
+2022-02-19,02,11h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-20,02,11h00,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-02-20,02,13h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-20,02,17h30,"Entretien téléphonique avec Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne.",Entretien,2022,True
+2022-02-20,02,20h30,"Entretien téléphonique avec Boris JOHNSON, Premier ministre du Royaume-Uni.",Entretien,2022,True
+2022-02-20,02,21h45,"Entretien téléphonique avec Joe BIDEN, Président des États-Unis d'Amérique.",Entretien,2022,True
+2022-02-20,02,23h00,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-02-21,02,16h15,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-02-21,02,17h20,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-21,02,17h40,"Entretien téléphonique avec Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne.",Entretien,2022,True
+2022-02-21,02,18h00,"Entretien téléphonique avec Charles MICHEL, Président du Conseil Européen.",Entretien,2022,True
+2022-02-21,02,18h20,"Entretien avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Entretien,2022,True
+2022-02-21,02,19h00,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-02-21,02,21h00,"Entretien téléphonique avec Joe BIDEN, Président des États-Unis d'Amérique, et Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne.",Entretien,2022,True
+2022-02-22,02,11h00,"Entretien avec Mme Christiane LAMBERT, Présidente de la Fédération nationale des syndicats d'exploitants agricoles (FNSEA).",Entretien,2022,True
+2022-02-22,02,12h00,"Entretien avec M. Samuel VANDAELE, Président des Jeunes Agriculteurs.",Entretien,2022,True
+2022-02-23,02,09h00,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-02-23,02,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-02-23,02,13h00,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-02-23,02,21h30,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-24,02,08h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-24,02,09h00,Conseil de défense sur l'évolution de la situation en Ukraine.,Conseil de défense,2022,True
+2022-02-24,02,13h30,Adresse aux Français.,Discours,2022,True
+2022-02-24,02,15h00,Visioconférence des leaders du G7.,Réunion,2022,True
+2022-02-24,02,20h00,Réunion extraordinaire du Conseil européen sur la situation en Ukraine.,Sommet,2022,True
+2022-02-25,02,11h00,"Entretien avec M. François HOLLANDE, ancien Président de la République.",Entretien,2022,True
+2022-02-25,02,12h00,"Entretien avec M. Nicolas SARKOZY, ancien Président de la République.",Entretien,2022,True
+2022-02-26,02,07h00,Visite au salon international de l’agriculture.,Déplacement,2022,True
+2022-02-26,02,10h30,"Entretien téléphonique avec Salomé ZOURABICHVILI, Présidente de la Géorgie.",Entretien,2022,True
+2022-02-26,02,11h00,"Entretien téléphonique avec Maia SANDU, Présidente de la République de Moldavie.",Entretien,2022,True
+2022-02-26,02,17h00,Conseil de défense.,Conseil de défense,2022,True
+2022-02-26,02,19h00,Entretien téléphonique avec Alexandre LOUKACHENKO.,Entretien,2022,True
+2022-02-27,02,00h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-27,02,11h00,"Entretien téléphonique avec Ursula VON DER LEYEN, Présidente de la Commission européenne.",Entretien,2022,True
+2022-02-27,02,11h30,"Entretien téléphonique avec Kassym-Jomart TOKAÏEV, Président de la République du Kazakhstan.",Entretien,2022,True
+2022-02-27,02,12h00,"Entretien téléphonique avec Cheikh Mohamed bin Zayed AL NAHYAN, Prince héritier d’Abou Dabi.",Entretien,2022,True
+2022-02-27,02,12h30,"Entretien téléphonique avec Ilham ALIEV, Président de la République d'Azerbaïdjan.",Entretien,2022,True
+2022-02-27,02,16h30,"Entretien téléphonique avec Mohamed bin Salman bin Abdulaziz AL-SAOUD, Prince héritier du Royaume d’Arabie saoudite.",Entretien,2022,True
+2022-02-27,02,16h50,"Entretien téléphonique avec Tamim ben Hamad AL THANI, Emir du Qatar.",Entretien,2022,True
+2022-02-27,02,17h10,"Entretien téléphonique avec Nikol PACHINIAN, Premier ministre de la République d’Arménie.",Entretien,2022,True
+2022-02-27,02,18h30,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-28,02,11h00,Conseil restreint de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-02-28,02,12h45,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-02-28,02,13h10,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-02-28,02,15h00,"Entretien avec Salomé ZOURABICHVILI, Présidente de la Géorgie.",Entretien,2022,True
+2022-02-28,02,17h30,Entretien en visioconférence en format « Quint élargi ».,Réunion,2022,True
+2022-02-28,02,19h00,"Dîner de travail avec les représentants des industriels européens de European Round Table for Industry, avec  Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne, et Ursula VON DER LEYEN, Présidente de la Commission européenne.",Dîner,2022,True
+2022-03-01,03,10h50,"Entretien téléphonique avec Fumio KISHIDA, Premier ministre du Japon.",Entretien,2022,True
+2022-03-01,03,11h30,"Entretien téléphonique avec Ilham ALIEV, Président de la République d'Azerbaïdjan.",Entretien,2022,True
+2022-03-01,03,12h00,"Entretien téléphonique avec Sauli NIINISTÖ, Président de la République de Finlande.",Entretien,2022,True
+2022-03-01,03,12h30,"Entretien téléphonique avec Gitanas NAUSÉDA, Président de la République de Lituanie.",Entretien,2022,True
+2022-03-01,03,15h00,"Entretien téléphonique avec Narendra MODI, Premier ministre de l’Inde.",Entretien,2022,True
+2022-03-01,03,17h00,Réunion avec les acteurs du dialogue de Trianon.,Réunion,2022,True
+2022-03-02,03,09h00,Conseil de Défense et de Sécurité nationale sur la situation en Ukraine.,Conseil de défense,2022,True
+2022-03-02,03,09h45,Conseil de Défense Covid-19.,Conseil de défense,2022,True
+2022-03-02,03,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-03-02,03,20h00,Adresse aux Français.,Discours,2022,True
+2022-03-03,03,10h00,"Entretien téléphonique avec Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-03-03,03,11h30,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-03-06,03,12h00,"Entretien téléphonique avec le Président de la Fédération de Russie, M. Vladimir POUTINE.",Entretien,2022,True
+2022-03-08,03,09h00,Prestation de serment des nouveaux membres du Conseil constitutionnel.,Cérémonie officielle,2022,True
+2022-03-08,03,10h00,"Visioconférence avec M. Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne et M. Xi JINPING, Président de la République populaire de Chine.",Entretien,2022,True
+2022-03-08,03,11h00,Evénement consacré à l’égalité professionnelle entre les femmes et les hommes en Europe.,Conférence,2022,True
+2022-03-08,03,13h15,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-03-08,03,16h00,Cérémonie en l’honneur des premières lauréates de l'initiative Marianne pour les défenseurs des droits de l’Homme.,Cérémonie officielle,2022,True
+2022-03-08,03,18h00,"Entretien avec M. Antony BLINKEN, Secrétaire d’Etat des Etats-Unis d’Amérique.",Entretien,2022,True
+2022-03-09,03,09h00,Conseil de Défense et de Sécurité Nationale.,Conseil de défense,2022,True
+2022-03-09,03,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-03-09,03,13h00,"Déjeuner de travail avec M. Mark RUTTE, Premier ministre du Royaume des Pays-Bas.",Déjeuner,2022,True
+2022-03-09,03,16h00,"Entretien avec M. Nikol PACHINIAN, Premier ministre d'Arménie.",Entretien,2022,True
+2022-03-09,03,17h00,Evénement « Ambitions France - Arménie ».,Conférence,2022,True
+2022-03-10,03,Toute la journée,"Sommet informel des chefs d’État et de gouvernement des Etats membres de l'Union européenn, au Château de Versailles.",Sommet,2022,True
+2022-03-11,03,Toute la journée,"Sommet informel des chefs d’État et de gouvernement des Etats membres de l'Union européenne, au Château de Versailles.",Sommet,2022,True
+2022-03-11,03,16h30,"Cérémonie de commémoration de la journée nationale et européenne en hommage aux victimes du terrorisme, au Grand Trianon.",Cérémonie officielle,2022,True
+2022-03-15,03,14h00,"Déplacement dans le Maine-et-Loire, visite au sein d'un centre accueillant des réfugiés ukrainiens.",Déplacement,2022,True
+2022-03-16,03,09h45,Conseil de Défense et de Sécurité Nationale.,Conseil de défense,2022,True
+2022-03-16,03,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-03-16,03,13h00,Déjeuner de travail avec le Premier ministre.,Déjeuner,2022,True
+2022-03-16,03,19h30,Clôture de la cérémonie de remise de la médaille de l’enfance et des familles.,Cérémonie officielle,2022,True
+2022-03-19,03,12h00,Réception à l’occasion du soixantième anniversaire de la fin de la guerre d’Algérie.,Réception,2022,True
+2022-03-20,03,17h40,Déplacement à Toulouse à l’occasion des cérémonies de commémoration des dix ans des attentats de Toulouse et Montauban.,Déplacement,2022,True
+2022-03-21,03,12h30,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-03-21,03,14h30,"Entretien avec M. Pedro SANCHEZ, Président du gouvernement d'Espagne.",Entretien,2022,True
+2022-03-21,03,16h00,"Entretien téléphonique en format « Quint » avec M. Joe BIDEN, Président des Etats-Unis d’Amérique, M. Mario DRAGHI, Président du Conseil des ministres d’Italie, M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne, et M. Boris JOHNSON, Premier ministre du Royaume-Uni.",Entretien,2022,True
+2022-03-21,03,19h00,"Entretien avec M. Sauli NIINISTÖ, Président de la République de Finlande.",Entretien,2022,True
+2022-03-21,03,20h30,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de l’Ukraine.",Entretien,2022,True
+2022-03-22,03,10h30,"Entretien téléphonique avec M. Joko WIDODO, Président de la République d’Indonésie.",Entretien,2022,True
+2022-03-22,03,17h00,Entretien téléphonique avec M. Vladimir POUTINE Président de la Fédération de Russie.,Entretien,2022,True
+2022-03-22,03,18h00,"Entretien téléphonique avec M. Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne.",Entretien,2022,True
+2022-03-22,03,18h30,"Entretien téléphonique avec M. Mario DRAGHI, Président du Conseil des ministres d’Italie.",Entretien,2022,True
+2022-03-23,03,10h00,Conseil de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-03-23,03,11h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-03-24,03,10h00,"Sommet extraordinaire de l'Otan, à Bruxelles.",Sommet,2022,True
+2022-03-24,03,14h00,"Sommet extraordinaire du G7, à Bruxelles.",Sommet,2022,True
+2022-03-24,03,16h00,"Conseil européen, à Bruxelles.",Sommet,2022,True
+2022-03-25,03,Toute la journée,"Conseil européen, à Bruxelles.",Sommet,2022,True
+2022-03-29,03,10h00,Conseil de défense Covid-19.,Conseil de défense,2022,True
+2022-03-29,03,13h00,Déjeuner avec le Premier ministre.,Déjeuner,2022,True
+2022-03-29,03,15h15,"Entretien téléphonique en format « Quint » avec M. Joe BIDEN, Président des Etats-Unis d’Amérique, M. Mario DRAGHI, Président du Conseil des ministres d’Italie, M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne, et M. Boris JOHNSON, Premier ministre du Royaume-Uni.",Entretien,2022,True
+2022-03-29,03,16h30,Entretien téléphonique avec M. Vladimir POUTINE Président de la Fédération de Russie.,Entretien,2022,True
+2022-03-29,03,17h30,Cérémonie en l’honneur de la délégation française aux Jeux olympiques et paralympiques de Pékin 2022.,Réception,2022,True
+2022-03-30,03,09h00,Conseil de Défense et de Sécurité nationale.,Conseil de défense,2022,True
+2022-03-30,03,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-04-06,04,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-04-13,04,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-04-15,04,16h00,Visite sur le chantier de Notre-Dame de Paris.,Déplacement,2022,True
+2022-04-19,04,15h45,Visioconférence en format « Quint élargi » sur la guerre en Ukraine.,Réunion,2022,True
+2022-04-20,04,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-04-27,04,Matin,Visite à Cergy dans le Val d'Oise.,Déplacement,2022,True
+2022-04-27,04,16h00,Hommage national à Michel Bouquet.,Cérémonie officielle,2022,True
+2022-04-28,04,12h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-04-28,04,17h00,"Visite à l'hôpital militaire Percy, dans les Hauts-de-Seine.",Déplacement,2022,True
+2022-04-29,04,Toute la journée,Déplacement dans les Hautes-Pyrénées.,Déplacement,2022,True
+2022-05-01,05,12h00,"Cérémonie traditionnelle de remise du muguet, en présence des représentants des filières horticole, agricoles et alimentaires et du marché de Rungis.",Réception,2022,True
+2022-05-03,05,12h00,Entretien téléphonique avec M. Vladimir POUTINE Président de la Fédération de Russie.,Entretien,2022,True
+2022-05-04,05,12h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-05-04,05,16h00,Réunion de travail avec des experts du climat.,Réunion,2022,True
+2022-05-04,05,19h00,"Entretien avec M. Narendra MODI, Premier ministre de la République de l’Inde.",Entretien,2022,True
+2022-05-05,05,16h00,"Entretien téléphonique avec M. Recep Tayyip ERDOGAN, Président de la République de Turquie.",Entretien,2022,True
+2022-05-05,05,16h30,"Entretien téléphonique avec M. Cyril RAMAPHOSA, Président de la République d'Afrique du Sud.",Entretien,2022,True
+2022-05-05,05,17h00,"Entretien téléphonique avec M. Macky SALL, Président de la République du Sénégal.",Entretien,2022,True
+2022-05-05,05,17h30,"Entretien téléphonique avec M. Azali ASSOUMANI, Président de l'Union des Comores puis avec M. Mohamed Ould GHAZOUANI, Président de la République islamique de Mauritanie.",Entretien,2022,True
+2022-05-05,05,18h00,"Entretien téléphonique avec M. Abdel FATTAH AL-SISSI, Président de la République arabe d’Egypte.",Entretien,2022,True
+2022-05-05,05,18h30,"Entretien téléphonique avec M. Abdelmadjid TEBBOUNE, Président de la République algérienne démocratique et populaire.",Entretien,2022,True
+2022-05-06,05,11h30,"Entretien téléphonique avec M. Kaïs SAÏED, Président de la République tunisienne.",Entretien,2022,True
+2022-05-06,05,12h00,"Entretien téléphonique avec M. Mahamat DEBY, Président du Conseil militaire de transition du Tchad.",Entretien,2022,True
+2022-05-06,05,12h30,"Entretien téléphonique avec Cheikh Mohammed Bin Zayed AL NAHYAN, Prince héritier d’Abou Dabi.",Entretien,2022,True
+2022-05-06,05,16h00,"Entretien avec M. Bill GATES, co-président de la Fondation Bill et Melinda GATES.",Entretien,2022,True
+2022-05-06,05,17h30,"Entretien téléphonique avec M. Boris JOHNSON, Premier ministre du Royaume-Uni.",Entretien,2022,True
+2022-05-06,05,18h30,"Entretien avec M. Gérard LARCHER, Président du Sénat.",Entretien,2022,True
+2022-05-07,05,11h00,Cérémonie d'investiture du Président de la République.,Cérémonie officielle,2022,True
+2022-05-08,05,Matin,Cérémonie de commémoration du 77ème anniversaire de la Victoire du 8 mai 1945.,Cérémonie officielle,2022,True
+2022-05-08,05,17h00,Visioconférence des membres du G7 relative à la situation en Ukraine.,Réunion,2022,True
+2022-05-09,05,11h30,Déplacement au Parlement européen à Strasbourg à l'occasion de la journée de l'Europe.,Cérémonie officielle,2022,True
+2022-05-09,05,18h00,Déplacement à Berlin.,Voyage officiel,2022,True
+2022-05-10,05,12h00,"Entretien téléphonique avec Xi JINPING, Président de la République populaire de Chine.",Entretien,2022,True
+2022-05-10,05,16h20,"Journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions.",Cérémonie officielle,2022,True
+2022-05-11,05,12h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-05-12,05,16h00,"Entretien téléphonique avec M. Sergio MATTARELLA, Président de la République italienne.",Entretien,2022,True
+2022-05-12,05,17h00,"Entretien téléphonique avec M. João LOURENCO, Président de la République d’Angola.",Entretien,2022,True
+2022-05-12,05,17h30,"Entretien téléphonique avec M. Justin TRUDEAU, Premier ministre du Canada.",Entretien,2022,True
+2022-05-12,05,18h00,"Entretien téléphonique avec M. Mustafa AL-KADHIMI, Premier ministre de la République d’Irak.",Entretien,2022,True
+2022-05-12,05,18h30,"Entretien téléphonique avec Mme Mette FREDERIKSEN, Première ministre du Royaume du Danemark.",Entretien,2022,True
+2022-05-12,05,19h00,"Entretien téléphonique avec Mme Magdalena ANDERSSON, Première ministre du Royaume de Suède.",Entretien,2022,True
+2022-05-12,05,19h30,"Entretien téléphonique avec M. Alassane OUATTARA, Président de la République de Côte d’Ivoire.",Entretien,2022,True
+2022-05-13,05,12h00,"Entretien avec M. Alberto Ángel FERNANDEZ, Président de la République argentine.",Entretien,2022,True
+2022-05-13,05,18h00,"Entretien téléphonique avec le Prince héritier d’Abou Dabi, Cheikh Mohammed Bin Zayed AL NAHYAN.",Entretien,2022,True
+2022-05-15,05,Toute la journée,Déplacement aux Emirats arabes unis.,Voyage officiel,2022,True
+2022-05-16,05,13h00,"Déjeuner de travail avec Charles MICHEL, Président du Conseil européen.",Déjeuner,2022,True
+2022-05-17,05,12h30,"Entretien téléphonique avec Naftali BENNETT, Premier ministre d'Israël.",Entretien,2022,True
+2022-05-17,05,13h00,"Déjeuner de travail avec Élisabeth BORNE, Première ministre.",Déjeuner,2022,True
+2022-05-17,05,16h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-05-18,05,16h45,"Entretien téléphonique avec Roumen RADEV, Président de la République de Bulgarie.",Entretien,2022,True
+2022-05-18,05,17h15,"Entretien téléphonique avec Kiril PETKOV, Premier ministre de Bulgarie.",Entretien,2022,True
+2022-05-18,05,17h45,Entretien téléphonique avec Dimitar KOVACEVSKI Premier ministre de Macédoine du Nord.,Entretien,2022,True
+2022-05-19,05,16h00,"Entretien avec Mme Maia SANDU, Présidente de la République de Moldavie.",Entretien,2022,True
+2022-05-23,05,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-05-24,05,10h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-05-26,05,11h00,"Entretien téléphonique avec Anthony ALBANESE, Premier ministre du Commonwealth d'Australie.",Entretien,2022,True
+2022-05-26,05,11h30,"Entretien téléphonique avec Recep Tayyip ERDOGAN, Président de la République de Turquie.",Entretien,2022,True
+2022-05-27,05,11h30,"Entretien téléphonique avec Massoud BARZANI, ancien Président de la Région autonome du Kurdistan d’Irak.",Entretien,2022,True
+2022-05-27,05,12h00,"Entretien téléphonique avec Ursula VON DER LEYEN, Présidente de la Commission européenne.",Entretien,2022,True
+2022-05-28,05,11h30,"Entretien téléphonique avec le Chancelier de la République fédérale d’Allemagne, Olaf SCHOLZ, et le Président de la fédération de Russie, Vladimir POUTINE.",Entretien,2022,True
+2022-05-30,05,Après-midi,Conseil européen extraordinaire.,Sommet,2022,True
+2022-05-31,05,Matin,Conseil européen extraordinaire.,Sommet,2022,True
+2022-05-31,05,Après-midi,"Déplacement sur l’accès aux soins urgents et non programmés au Centre Hospitalier de Cherbourg, dans la Manche.",Déplacement,2022,True
+2022-06-01,06,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-06-01,06,12h50,"Entretien téléphonique avec M. Fumio KISHIDA, Premier ministre du Japon.",Entretien,2022,True
+2022-06-01,06,13h15,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-06-01,06,16h00,Hommage national à Françoise Rudetzki.,Cérémonie officielle,2022,True
+2022-06-02,06,Matin,"Déplacement à Marseille, dans les Bouches-du-Rhône, sur le thème de l’éducation.",Déplacement,2022,True
+2022-06-02,06,18h30,Cérémonie de ravivage de la Flamme sous l’Arc de Triomphe à l’occasion du Jubilé de platine de S.M. la Reine Elizabeth II.,Cérémonie officielle,2022,True
+2022-06-02,06,23h00,"Entretien téléphonique avec Mme Jacinda ARDERN, Première ministre de la Nouvelle-Zélande.",Entretien,2022,True
+2022-06-03,06,12h15,Remise de décoration individuelle.,Cérémonie officielle,2022,True
+2022-06-03,06,13h30,"Déjeuner de travail avec Ursula VON DER LEYEN, Présidente de la Commission européenne.",Déjeuner,2022,True
+2022-06-03,06,16h00,Réception avec les acteurs de l'esport français à l'occasion de la TrackMania Cup.,Réception,2022,True
+2022-06-03,06,17h00,"Entretien avec M. Michael BLOOMBERG, Envoyé spécial des Nations Unies pour l’ambition et les solutions en faveur du climat.",Entretien,2022,True
+2022-06-04,06,11h30,Entretien téléphonique avec le Roi Abdallah II de Jordanie.,Entretien,2022,True
+2022-06-04,06,12h00,"Entretien téléphonique avec Mahmoud ABBAS, Président de l’Autorité palestinienne.",Entretien,2022,True
+2022-06-07,06,13h15,"Déjeuner de travail avec M. António COSTA, Premier ministre du Portugal.",Déjeuner,2022,True
+2022-06-07,06,18h15,"Entretien avec M. Petr FIALA, Premier ministre de la République tchèque.",Entretien,2022,True
+2022-06-08,06,09h00,Entretien avec la Première ministre.,Entretien,2022,True
+2022-06-08,06,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-06-08,06,16h45,Déplacement à Clichy-sous-Bois.,Déplacement,2022,True
+2022-06-08,06,20h20,"Diner de travail avec M. Mario DRAGHI, Président du Conseil des ministres de la République d’Italie.",Dîner,2022,True
+2022-06-09,06,Toute la journée,Déplacement dans le Tarn.,Déplacement,2022,True
+2022-06-09,06,20h00,"Entretien téléphonique avec Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-06-10,06,09h30,Réunion des conseils scientifiques COVID-19 européens.,Réunion,2022,True
+2022-06-10,06,11h00,"Entretien avec Macky SALL, Président de la République du Sénégal.",Entretien,2022,True
+2022-06-10,06,13h00,Déjeuner de travail avec les organisations syndicales.,Entretien,2022,True
+2022-06-12,06,12h30,Vote au Touquet dans le cadre du 1er tour des élections législatives.,Vote,2022,True
+2022-06-13,06,09h30,"Entretien avec M. Alexander DE CROO, Premier ministre de Belgique.",Entretien,2022,True
+2022-06-13,06,11h00,Déplacement au salon Eurosatory.,Déplacement,2022,True
+2022-06-14,06,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-06-14,06,Après-midi,Déplacement en Roumanie.,Voyage officiel,2022,True
+2022-06-15,06,Matin,Déplacement en Roumanie.,Voyage officiel,2022,True
+2022-06-15,06,Après-midi,Déplacement en Moldavie.,Voyage officiel,2022,True
+2022-06-16,06,Toute la journée,Déplacement en Ukraine.,Voyage officiel,2022,True
+2022-06-17,06,16h00,Déplacement au salon Vivatech.,Déplacement,2022,True
+2022-06-18,06,11h00,Commémoration du 82ème anniversaire de l’Appel du 18 juin 1940 au Mont Valérien.,Cérémonie officielle,2022,True
+2022-06-21,06,10h00,"Entretien avec M. Christian JACOB, Président des Républicains.",Entretien,2022,True
+2022-06-21,06,11h00,"Entretien avec M. Olivier FAURE, Premier secrétaire du Parti socialiste.",Entretien,2022,True
+2022-06-21,06,12h00,"Entretien avec M. Jens STOLTENBERG, Secrétaire général de l’OTAN.",Entretien,2022,True
+2022-06-21,06,14h00,"Entretien avec M. François BAYROU, Président du MODEM.",Entretien,2022,True
+2022-06-21,06,15h00,"Entretien avec M. Stanislas GUERINI, Délégué général de Renaissance.",Entretien,2022,True
+2022-06-21,06,17h30,"Entretien avec Mme Marine LE PEN, députée Rassemblement national du Pas-de-Calais.",Entretien,2022,True
+2022-06-21,06,18h30,"Entretien avec M. Fabien ROUSSEL, Secrétaire national du Parti communiste français.",Entretien,2022,True
+2022-06-22,06,09h00,"Entretien avec M. Julien BAYOU, Secrétaire national d’Europe Ecologie - Les Verts.",Entretien,2022,True
+2022-06-22,06,10h00,"Entretien avec M. Franck RIESTER, Président d’AGIR.",Entretien,2022,True
+2022-06-22,06,11h00,"Entretien avec M. Adrien QUATENNENS, député La France insoumise du Nord.",Entretien,2022,True
+2022-06-22,06,12h00,"Entretien avec M. Edouard PHILIPPE, Président d’Horizons.",Entretien,2022,True
+2022-06-22,06,20h00,Adresse aux Français.,Discours,2022,True
+2022-06-23,06,09h30,Réunion de travail des dirigeants de l’Union européenne et des pays des Balkans occidentaux.,Réunion,2022,True
+2022-06-23,06,15h00,"Réunion des chefs d’Etat et de gouvernement avec Mme Roberta METSOLA, présidente du Parlement européen.",Réunion,2022,True
+2022-06-24,06,10h00,Sommet de la zone euro des chefs d’Etat et de gouvernement.,Sommet,2022,True
+2022-06-25,06,Après-midi,Sommet du G7 à Elmau en Allemagne.,Sommet,2022,True
+2022-06-26,06,Toute la journée,Sommet du G7 à Elmau en Allemagne.,Sommet,2022,True
+2022-06-27,06,Toute la journée,Sommet du G7 à Elmau en Allemagne.,Sommet,2022,True
+2022-06-28,06,Matin,Sommet du G7 à Elmau en Allemagne.,Sommet,2022,True
+2022-06-28,06,Après-midi,Sommet de l'OTAN à Madrid.,Sommet,2022,True
+2022-06-29,06,Toute la journée,Sommet de l'OTAN à Madrid.,Sommet,2022,True
+2022-06-30,06,Matin,Sommet de l'OTAN à Madrid.,Sommet,2022,True
+2022-06-30,06,Après-midi,Déplacement au Portugal dans le cadre de la conférence des nations unies sur les Océans.,Sommet,2022,True
+2022-07-01,07,13h00,"Déjeuner de travail avec M. Anthony ALBANESE, Premier ministre d’Australie.",Déjeuner,2022,True
+2022-07-04,07,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-07-04,07,16h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-07-04,07,18h00,Remise du prix du public de l’exposition « Regards sur l’Élysée ».,Réception,2022,True
+2022-07-04,07,20h00,"Dîner de travail avec M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Dîner,2022,True
+2022-07-05,07,10h00,"Réunion de travail relative au pouvoir d’achat, à l’énergie et aux finances publiques avec la Première ministre et les ministres en charge.",Réunion,2022,True
+2022-07-05,07,15h30,"Entretien avec M. Yaïr LAPID, Premier ministre de l’Etat d’Israël.",Entretien,2022,True
+2022-07-05,07,17h30,Remise de décoration individuelle.,Réception,2022,True
+2022-07-06,07,11h00,"Entretien avec M. François VILLEROY DE GALHAU, Gouverneur de la Banque de France.",Entretien,2022,True
+2022-07-06,07,12h15,"Entretien avec M. Christophe SOULARD, Premier Président de la Cour de cassation.",Entretien,2022,True
+2022-07-07,07,10h00,Remise du rapport du Haut comité d'évaluation de la condition militaire.,Remise de rapport,2022,True
+2022-07-07,07,11h00,"Entretien avec M. Sébastien LECORNU, Ministre des Armées.",Entretien,2022,True
+2022-07-07,07,12h00,"Entretien avec M. Thierry BURKHARD, Chef d’Etat-Major des armées.",Entretien,2022,True
+2022-07-07,07,16h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-07-07,07,18h00,"Entretien avec M. Philippe ETIENNE, Ambassadeur de France aux Etats-Unis.",Entretien,2022,True
+2022-07-07,07,19h00,Réception des députés de la majorité.,Réception,2022,True
+2022-07-08,07,10h00,Remise du rapport des États Généraux de la Justice.,Remise de rapport,2022,True
+2022-07-11,07,10h00,Conseil de défense.,Conseil de défense,2022,True
+2022-07-11,07,11h30,Prise d'armes à l'Hôtel National des Invalides.,Cérémonie officielle,2022,True
+2022-07-11,07,14h30,"Signature du registre de condoléances à l’ambassade du Japon en France suite au décès de l’ancien Premier ministre japonais, M. Shinzo ABE.",Déplacement,2022,True
+2022-07-11,07,Après-midi,Cinquième édition du sommet Choose France à Versailles.,Sommet,2022,True
+2022-07-12,07,Après-midi,"Déplacement dans l’entreprise ST Microelectronics à Crolles, en Isère.",Déplacement,2022,True
+2022-07-13,07,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-07-13,07,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-07-13,07,18h30,Rencontre avec les troupes appelées à défiler à l’occasion de la fête nationale du 14 juillet 2022 - Hôtel de Brienne,Cérémonie officielle,2022,True
+2022-07-14,07,10h00,Défilé militaire à l’occasion de la Fête nationale.,Cérémonie officielle,2022,True
+2022-07-14,07,13h10,Interview télévisée.,Interview,2022,True
+2022-07-15,07,11h00,"Entretien avec Monsieur Pierre MOSCOVICI, premier président de la Cour des Comptes, à l’occasion de la remise du rapport de la Cour de comptes.",Entretien,2022,True
+2022-07-15,07,14h15,"Déplacement au Centre opérationnel de gestion interministérielle des crises (COGIC) au ministère de l’Intérieur, place Beauvau.",Déplacement,2022,True
+2022-07-16,07,11h00,"Entretien avec Recep Tayyip ERDOGAN, Président de la République de Turquie.",Entretien,2022,True
+2022-07-17,07,Après-midi,Commémoration du 80ème anniversaire de la Rafle du Vel d’Hiv à Pithiviers.,Cérémonie officielle,2022,True
+2022-07-18,07,Toute la journée,"Visite d'Etat du Président des Emirats arabes unis, Cheikh Mohammed Bin Zayed AL NAHYAN.",Visite d'État,2022,True
+2022-07-18,07,16h00,"Entretien avec M. Tedros Adhanom GHEBREYESUS, directeur général de l'Organisation mondiale de la santé (OMS).",Entretien,2022,True
+2022-07-18,07,18h00,"Entretien avec Yaël Braun-Pivet, Présidente de l'Assemblée nationale.",Entretien,2022,True
+2022-07-19,07,09h30,"Entretien avec le chef d’Etat-Major des armées, M. Thierry BURKHARD.",Entretien,2022,True
+2022-07-19,07,10h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-07-19,07,Après-midi,"Remise du rapport de la Défenseure des droits, Claire Hédon.",Remise de rapport,2022,True
+2022-07-20,07,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-07-20,07,12h00,"Déjeuner de travail avec M. Mahmoud ABBAS, le Président de l’Autorité palestinienne.",Déjeuner,2022,True
+2022-07-20,07,Après-midi,"Déplacement en Gironde aux côtés des sapeurs-pompiers, des personnels de la sécurité civile, des forces de l’ordre, des élus et de l’ensemble des personnes mobilisées pour maitriser les feux et prendre en charge les habitants sinistrés.",Déplacement,2022,True
+2022-07-21,07,Toute la journée,Déplacement dans les Hautes-Pyrénées.,Déplacement,2022,True
+2022-07-22,07,10h00,"Entretien avec M. Gérard LARCHER, Président du Sénat.",Entretien,2022,True
+2022-07-22,07,11h15,"Entretien avec Bill NELSON, Administrateur de la National Aeronautics and Space Administration (NASA).",Entretien,2022,True
+2022-07-22,07,12h15,"Entretien avec M. Abdel FATTAH AL-SISSI, Président de la République arabe d’Egypte.",Entretien,2022,True
+2022-07-22,07,16h00,Cérémonie de remise de lettres de créances.,Cérémonie officielle,2022,True
+2022-07-23,07,11h15,"Entretien téléphonique avec le Président de la République islamique d’Iran, M. Ebrahim RAÏSSI.",Entretien,2022,True
+2022-07-25,07,10h00,Réunion du Conseil Olympique et Paralympique.,Réunion,2022,True
+2022-07-25,07,12h00,"Entretien avec M. Thomas BACH, Président du Comité International Olympique et M. Tony ESTANGUET, Président du Comité d’Organisation des Jeux Olympiques et Paralympiques 2024.",Entretien,2022,True
+2022-07-25,07,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-07-26,07,Toute la journée,Déplacement au Cameroun.,Voyage officiel,2022,True
+2022-07-27,07,08h45,Déplacement au Bénin.,Voyage officiel,2022,True
+2022-07-28,07,Matin,Déplacement en Guinée-Bissau.,Voyage officiel,2022,True
+2022-07-28,07,20h30,"Diner de travail avec M. Mohammed Bin Salman Bin Abdulaziz AL-SAOUD, Prince-héritier, vice-premier ministre, ministre de la Défense du Royaume d’Arabie saoudite.",Dîner,2022,True
+2022-07-29,07,11h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-08-01,08,11h30,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-08-03,08,Après-midi,"Entretien avec Macky SALL, Président de la République du Sénégal.",Entretien,2022,True
+2022-08-03,08,Après-midi,"Entretien téléphonique avec M. Nikol PACHINIAN, Premier ministre d'Arménie.",Entretien,2022,True
+2022-08-04,08,19h30,"Entretien téléphonique avec M. Ilham ALIEV, Président de la République d’Azerbaïdjan.",Entretien,2022,True
+2022-08-09,08,11h30,"Entretien téléphonique avec M. Kaïs SAÏED, Président de la République tunisienne.",Entretien,2022,True
+2022-08-09,08,15h30,"Entretien téléphonique avec Boris JOHNSON, Premier ministre du Royaume-Uni.",Entretien,2022,True
+2022-08-16,08,11h15,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-08-16,08,15h45,"Entretien téléphonique avec M. Narendra MODI, Premier ministre de l’Inde.",Entretien,2022,True
+2022-08-19,08,12h00,"Entretien téléphonique avec M. Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-08-19,08,19h00,Commémoration du 78ème anniversaire de la libération de Bormes-les-Mimosas.,Déplacement,2022,True
+2022-08-20,08,12h45,"Entretien téléphonique avec M. Abdelmadjid TEBBOUNE, Président de la République algérienne démocratique et populaire.",Entretien,2022,True
+2022-08-21,08,15h30,"Conférence téléphonique avec le Chancelier Scholz, le Président Biden et le Premier ministre Johnson.",Entretien,2022,True
+2022-08-22,08,15h00,"Entretien avec le Premier ministre d’Israël, Yaïr LAPID.",Entretien,2022,True
+2022-08-23,08,20h00,"Dîner avec Mme Elisabeth BORNE, Première ministre.",Dîner,2022,True
+2022-08-24,08,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-08-24,08,16h00,"Entretien avec M. Pap NDIAYE, Ministre de l'Éducation nationale et de la Jeunesse.",Entretien,2022,True
+2022-08-25,08,09h00,"Entretien avec M. Rafael Mariano GROSSI, Directeur général de l'Agence internationale de l'énergie atomique.",Entretien,2022,True
+2022-08-25,08,10h30,Ouverture de la réunion des recteurs d’académie.,Discours,2022,True
+2022-08-25,08,Après-midi,Visite officielle et d’amitié en République algérienne démocratique et populaire.,Voyage officiel,2022,True
+2022-08-26,08,Toute la journée,Visite officielle et d’amitié en République algérienne démocratique et populaire.,Voyage officiel,2022,True
+2022-08-27,08,Toute la journée,Visite officielle et d’amitié en République algérienne démocratique et populaire.,Voyage officiel,2022,True
+2022-08-29,08,10h00,"Entretien avec Eric TRAPPIER, Président-directeur général de Dassault.",Entretien,2022,True
+2022-08-29,08,11h30,"Entretien avec Mateusz Morawiecki, Président du Conseil des ministres de Pologne.",Entretien,2022,True
+2022-08-29,08,13h00,"Déjeuner de travail avec sa Majesté le Roi Hamad bin Isa AL KHALIFA, Roi du Bahreïn.",Déjeuner,2022,True
+2022-08-29,08,16h00,"Entretien avec Andry RAJOELINA, Président de la République de Madagascar.",Entretien,2022,True
+2022-08-30,08,09h00,"Entretien avec Paul HUDSON, Directeur général de Sanofi.",Entretien,2022,True
+2022-08-30,08,11h00,"Entretien avec le Général d’armée Thierry BURKHARD, Chef d’Etat-Major des armées.",Entretien,2022,True
+2022-08-30,08,13h00,Déjeuner de travail avec la Première ministre.,Déjeuner,2022,True
+2022-08-30,08,15h00,"Entretien avec Sébastien LECORNU, ministre des Armées.",Entretien,2022,True
+2022-08-30,08,16h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-08-30,08,17h30,Réunion de travail avec la Première ministre et les ministres concernés sur le Service national universel.,Réunion,2022,True
+2022-08-30,08,19h15,"Entretien avec Xavier BETTEL, Premier ministre du Luxembourg.",Entretien,2022,True
+2022-08-31,08,08h30,"Entretien avec Charles MICHEL, Président du Conseil européen.",Entretien,2022,True
+2022-08-31,08,Toute la journée,Conseil des ministres suivi d’un séminaire gouvernemental.,Conseil des ministres,2022,True
+2022-09-01,09,11h00,Conférence des ambassadrices et des ambassadeurs.,Conférence,2022,True
+2022-09-01,09,13h30,"Déjeuner de travail avec Robert GOLOB, Premier ministre de la République de Slovénie.",Déjeuner,2022,True
+2022-09-01,09,19h00,Rencontres franco-allemandes d’Evian.,Déplacement,2022,True
+2022-09-02,09,10h00,Conseil de défense et de sécurité nationale sur l’énergie.,Conseil de défense,2022,True
+2022-09-02,09,17h30,"Entretien avec Guillaume FAURY, Directeur général d’Airbus.",Entretien,2022,True
+2022-09-02,09,19h00,Remise de décoration individuelle.,Réception,2022,True
+2022-09-05,09,10h00,"Entretien avec M. David MILIBAND, Président de l’International Rescue Committee.",Entretien,2022,True
+2022-09-05,09,11h00,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-09-05,09,15h00,"Entretien en visioconférence avec M. Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne.",Entretien,2022,True
+2022-09-05,09,17h00,"Réunion avec Mme Carole DELGA, présidente de Régions de France, M. David LISNARD, président de l’association des maires de France et M. François SAUVADET, président des départements de France.",Réunion,2022,True
+2022-09-06,09,11h00,"Entretien avec M. Gérald DARMANIN, ministre de l’Intérieur et des Outre-mer.",Entretien,2022,True
+2022-09-06,09,12h00,"Entretien téléphonique avec M. William RUTO,  Président élu du Kenya.",Entretien,2022,True
+2022-09-06,09,16h00,"Entretien avec M. Marc FESNEAU, ministre de l'Agriculture et de la souveraineté alimentaire.",Entretien,2022,True
+2022-09-06,09,19h00,"Entretien avec M. Bernard ROMAN, ancien président de l’Autorité de régulation des transports.",Entretien,2022,True
+2022-09-07,09,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-09-07,09,13h15,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-09-07,09,20h00,Dîner avec les élus ultra-marins.,Dîner,2022,True
+2022-09-08,09,Toute la journée,Lancement du Conseil national de la refondation (CNR) à Marcoussis.,Inauguration,2022,True
+2022-09-08,09,20h00,"Dîner avec Mme Hélène CARRERE D’ENCAUSSE, secrétaire perpétuel de l’Académie française, M. Mario VARGAS LLOSA et M. Antoine COMPAGNON.",Dîner,2022,True
+2022-09-09,09,10h00,"Entretien avec M. Boris RAVIGNON, maire de Charleville-Mézières",Entretien,2022,True
+2022-09-09,09,Après-midi,"Déplacement en Beauce à l’occasion de la 8e édition de Terres de Jim, rassemblement annuel des Jeunes Agriculteurs.",Déplacement,2022,True
+2022-09-10,09,11h00,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-09-10,09,Après-midi,"Entretien téléphonique avec M. Ismaïl Omar Guelleh, Président de la République de Djibouti.",Entretien,2022,True
+2022-09-10,09,Après-midi,"Entretien téléphonique avec Mme Liz TRUSS, Première ministre du Royaume-Uni.",Entretien,2022,True
+2022-09-11,09,13h30,"Entretien téléphonique avec M. Vladimir POUTINE, Président de la Fédération de Russie.",Entretien,2022,True
+2022-09-12,09,19h30,"Entretien avec M. Kyriákos MITSOTAKIS, Premier ministre de la République hellénique.",Entretien,2022,True
+2022-09-13,09,01h00,"Entretien téléphonique avec le Premier ministre d’Arménie, Nikol PACHINIAN.",Entretien,2022,True
+2022-09-13,09,10h00,"Entretien par conférence téléphonique avec la Première ministre de la République d’Estonie, Kaja KALLAS, et le Président de la République de Lituanie, Gitanas NAUSEDA.",Entretien,2022,True
+2022-09-13,09,10h30,"Entretien téléphonique avec le Président de la République d’Angola, João LOURENCO.",Entretien,2022,True
+2022-09-13,09,Après-midi,Déplacement aux Sables d’Olonne sur le thème de l'enseignement professionnel.,Déplacement,2022,True
+2022-09-13,09,17h30,"Entretien téléphonique avec le Président de la République d'Azerbaïdjan, Ilham ALIEV.",Entretien,2022,True
+2022-09-14,09,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-09-14,09,19h00,Présentation par les élèves lauréats du concours du Mobilier National de la nouvelle table du Conseil des ministres.,Discours,2022,True
+2022-09-14,09,21h00,Entretien téléphonique avec Sa Majesté le Roi Charles III.,Entretien,2022,True
+2022-09-15,09,16h00,Réception avec les préfets.,Discours,2022,True
+2022-09-16,09,00h00,Entretien avec le Premier ministre d’Arménie M. Nikol PACHINIAN.,Entretien,2022,True
+2022-09-16,09,09h30,"Entretien téléphonique avec le Président des Philippines, M. Ferdinand MARCOS Jr.",Entretien,2022,True
+2022-09-16,09,Après-midi,Déplacement dans la Creuse à l’occasion des Journées européennes du patrimoine et de la cinquième édition du Loto du Patrimoine.,Déplacement,2022,True
+2022-09-19,09,11h00,Funérailles de Sa Majesté la Reine Elizabeth II à Londres.,Cérémonie officielle,2022,True
+2022-09-20,09,Toute la journée,77ème session de l'Assemblée générale des Nations unies à New-York.,Sommet,2022,True
+2022-09-20,09,15h15,"Entretien avec le Président de la République islamique d’Iran, M. Ebrahim RAÏSSI, .",Entretien,2022,True
+2022-09-20,09,16h15,"Entretien avec le Premier ministre de la République islamique du Pakistan, M. Shehbaz SHARIF.",Entretien,2022,True
+2022-09-20,09,17h15,"Entretien avec la Première ministre du Royaume-Uni, Mme Liz TRUSS.",Entretien,2022,True
+2022-09-20,09,20h00,Intervention devant l’Assemblée  générale des Nations unies.,Discours,2022,True
+2022-09-20,09,22h00,Participation au 3ème sommet de l’Appel de Christchurch.,Sommet,2022,True
+2022-09-21,09,Toute la journée,77ème session de l'Assemblée générale des Nations unies à New-York.,Sommet,2022,True
+2022-09-22,09,Matin,Déplacement à Saint-Nazaire consacré aux énergies renouvelables.,Déplacement,2022,True
+2022-09-23,09,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-09-23,09,18h30,Conseil de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-09-26,09,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-09-26,09,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-09-26,09,15h00,"Entretien avec M. Allain BOUGRAIN-DUBOURG, Président de la Ligue pour la protection des oiseaux.",Entretien,2022,True
+2022-09-26,09,16h00,"Entretien avec M. Willy SCHRAEN, Président de la Fédération nationale des chasseurs.",Entretien,2022,True
+2022-09-26,09,17h30,"Entretien avec M. Nikol PACHINIAN, Premier ministre d’Arménie.",Entretien,2022,True
+2022-09-26,09,19h30,"Entretien avec M. Gilles KEPEL, politologue.",Entretien,2022,True
+2022-09-27,09,11h00,"Entretien avec Mgr Eric de MOULINS-BEAUFORT, Président de la Conférence des évêques de France.",Entretien,2022,True
+2022-09-27,09,12h00,"Entretien avec M. Sébastien LECORNU, ministre des Armées.",Entretien,2022,True
+2022-09-27,09,15h30,"Entretien téléphonique avec M. Ilham ALIEV, Président de la République d’Azerbaïdjan.",Entretien,2022,True
+2022-09-27,09,16h30,"Entretien avec M. Thierry BURKHARD, Chef d’Etat-Major des Armées.",Entretien,2022,True
+2022-09-28,09,14h30,Conseil de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-09-28,09,18h30,"Entretien avec M. Gérard LARCHER, Président du Sénat.",Entretien,2022,True
+2022-09-29,09,10h45,Réunion du Conseil Olympique et Paralympique.,Réunion,2022,True
+2022-09-30,09,09h00,Inauguration du complexe culturel du Foirail à Pau.,Inauguration,2022,True
+2022-10-02,10,12h45,"Entretien téléphonique avec Volodymyr Zelensky, Président de la République d'Ukraine.",Entretien,2022,True
+2022-10-03,10,11h30,"Entretien avec M. Umaro Sissoco EMBALO, Président de la République de Guinée-Bissau.",Entretien,2022,True
+2022-10-03,10,13h00,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-10-03,10,19h15,"Dîner de travail avec M. Olaf SCHOLZ, Chancelier de la République fédérale d'Allemagne à Berlin.",Dîner,2022,True
+2022-10-04,10,13h00,"Déjeuner de travail avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Déjeuner,2022,True
+2022-10-04,10,15h00,"Visioconférence avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne, M. Charles MICHEL, Président du Conseil européen et M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Réunion,2022,True
+2022-10-04,10,16h30,"Entretien avec M. Gérald DARMANIN, ministre de l’Intérieur et des Outre-mer.",Entretien,2022,True
+2022-10-04,10,19h05,"Entretien avec M. Filippo GRANDI, le Haut-Commissaire des Nations unies aux réfugiés.",Entretien,2022,True
+2022-10-05,10,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-10-05,10,17h00,"Entretien avec M. Moussa FAKI, Président de la Commission de l’Union africaine.",Entretien,2022,True
+2022-10-06,10,09h15,"Entretien téléphonique avec M. Anthony ALBANESE, Premier ministre d’Australie.",Entretien,2022,True
+2022-10-06,10,10h00,Ouverture du Forum annuel Bpifrance Inno Génération (BIG) à l'AccorHotels Arena de Paris.,Discours,2022,True
+2022-10-06,10,Après-midi,Sommet de la communauté politique européenne à Prague en République tchèque.,Sommet,2022,True
+2022-10-07,10,Toute la journée,Sommet informel des chefs d’État et de gouvernement de l’Union européenne à Prague en République tchèque.,Sommet,2022,True
+2022-10-09,10,12h00,"Entretien téléphonique avec M. Abdelmadjid TEBBOUNE, Président de la République algérienne démocratique et populaire.",Entretien,2022,True
+2022-10-10,10,Après-midi,Déplacement en Mayenne consacré au retour des services publics dans les territoires.,Déplacement,2022,True
+2022-10-10,10,20h30,Conseil restreint de défense et de sécurité nationale.,Conseil de défense,2022,True
+2022-10-11,10,12h30,Déjeuner avec la Première ministre.,Déjeuner,2022,True
+2022-10-11,10,14h00,Visioconférence des leaders du G7.,Réunion,2022,True
+2022-10-11,10,18h00,"Entretien avec M. Andy JASSY, directeur général d’Amazon.",Entretien,2022,True
+2022-10-12,10,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-10-12,10,12h00,Remise de décoration individuelle.,Cérémonie officielle,2022,True
+2022-10-13,10,12h00,Cérémonie de remise de lettres de créance des ambassadeurs en France.,Cérémonie officielle,2022,True
+2022-10-13,10,15h00,"Entretien avec M. Nana AKUFO-ADDO, Président de la République du Ghana.",Entretien,2022,True
+2022-10-13,10,16h00,"Entretien avec Monseigneur Jean-Marc AVELINE, Archevêque de Marseille.",Entretien,2022,True
+2022-10-13,10,17h30,"Entretien avec M. Claudio GALDERISI, Président de l’Institut Français d’Islamologie.",Entretien,2022,True
+2022-10-13,10,19h00,"Dîner avec M. Mario DRAGHI, Président du Conseil des ministres de la République italienne.",Dîner,2022,True
+2022-10-14,10,16h00,Conseil de défense et de sécurité nationale,Conseil de défense,2022,True
+2022-10-15,10,12h00,"Entretiens téléphoniques successifs avec le Premier ministre israélien, M. Yaïr LAPID ; le Président de la République du Liban, le Général Michel AOUN ; et le Premier ministre libanais, M. Najib MIKATI.",Entretien,2022,True
+2022-10-17,10,Matin,Déplacement au Mondial de l'Auto.,Déplacement,2022,True
+2022-10-18,10,11h00,Prise d’armes à l’Hôtel national des Invalides.,Cérémonie officielle,2022,True
+2022-10-18,10,15h30,"Entretien téléphonique avec la Première ministre du Royaume-Uni, Mme Liz TRUSS.",Entretien,2022,True
+2022-10-19,10,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-10-19,10,15h00,Commémorations du centenaire de la Grande Mosquée de Paris.,Déplacement,2022,True
+2022-10-20,10,Toute la journée,Conseil européen à Bruxelles.,Sommet,2022,True
+2022-10-21,10,Matin,Conseil européen à Bruxelles.,Sommet,2022,True
+2022-10-23,10,Après-midi,Déplacement en République italienne et au Vatican.,Voyage officiel,2022,True
+2022-10-23,10,17h30,Ouverture de la conférence internationale « Le cri de la paix » organisée par la communauté de Sant’Egidio à Rome.,Discours,2022,True
+2022-10-23,10,20h00,"Entretien avec Mme Giorgia MELONI, Présidente du Conseil des ministres de la République italienne à Rome.",Entretien,2022,True
+2022-10-24,10,Toute la journée,Déplacement en République italienne et au Vatican.,Voyage officiel,2022,True
+2022-10-24,10,10h30,Audience avec Sa Sainteté le Pape François au Vatican.,Entretien,2022,True
+2022-10-25,10,09h45,"Entretien avec Mme Elisabeth BORNE, Première ministre.",Entretien,2022,True
+2022-10-25,10,10h45,Réunion de travail avec la Première ministre et les ministres concernés sur les retraites.,Réunion,2022,True
+2022-10-25,10,12h00,Réunion de travail avec la Première ministre et les ministres concernés sur le Service national universel.,Réunion,2022,True
+2022-10-25,10,18h30,Remise de décorations collective.,Cérémonie officielle,2022,True
+2022-10-26,10,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-10-26,10,12h30,"Entretien avec M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Entretien,2022,True
+2022-10-26,10,20h15,Emission l'Événement sur France 2.,Interview,2022,True
+2022-10-27,10,Toute la journée,Déplacement sur le thème des armées et de l’industrie d’armement à Bourges.,Déplacement,2022,True
+2022-10-28,10,10h00,"Entretien téléphonique avec le Premier ministre du Royaume-Uni, M. Rishi Sunak.",Entretien,2022,True
+2022-10-28,10,11h00,Remerciements aux acteurs mobilisés contre les feux de forêt.,Discours,2022,True
+2022-11-01,11,11h00,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-11-02,11,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-11-02,11,15h00,Hommage national à Pierre Soulages.,Cérémonie officielle,2022,True
+2022-11-07,11,Toute la journée,COP27 de Charm el-Cheikh en Égypte.,Sommet,2022,True
+2022-11-08,11,Après-midi,Réunion avec les dirigeants des 50 sites industriels qui émettent le plus de gaz à effet de serre en France.,Réunion,2022,True
+2022-11-09,11,10h35,Déplacement consacré à la présentation de la Revue nationale stratégique à Toulon.,Discours,2022,True
+2022-11-10,11,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-11-10,11,13h00,"Entretien avec M. Gustavo Petro, Président de la République de Colombie.",Entretien,2022,True
+2022-11-10,11,15h00,"Entretien avec M. Aleksandar VUCIC, Président de la République de Serbie.",Entretien,2022,True
+2022-11-10,11,16h00,"Entretien avec Mme Vjosa OSMANI, Présidente de la République du Kosovo et M. Albin KURTI, Premier ministre de la République du  Kosovo.",Entretien,2022,True
+2022-11-10,11,17h00,"Entretien avec M. Nicos ANASTASIADES, Président de la République de Chypre.",Entretien,2022,True
+2022-11-10,11,18h15,"Entretien avec M. Alberto Angel FERNANDEZ, Président de la Nation argentine.",Entretien,2022,True
+2022-11-10,11,18h30,Lancement du Laboratoire pour la protection de l’enfance en ligne dans le cadre du Forum de Paris sur la Paix.,Sommet,2022,True
+2022-11-11,11,Matin,Cérémonie de commémoration du 104ème anniversaire de l’Armistice de 1918.,Cérémonie officielle,2022,True
+2022-11-11,11,16h00,Forum de Paris sur la Paix : débat sur le thème de « l’universalisme mis au défi par la guerre en Ukraine ».,Réunion,2022,True
+2022-11-12,11,11h00,"Entretien téléphonique avec le Président de la République du Kenya, William RUTO.",Entretien,2022,True
+2022-11-12,11,12h00,"Entretien téléphonique avec le Président de la République d'Azerbaïdjan, Ilham ALIEV.",Entretien,2022,True
+2022-11-12,11,19h00,"Entretien téléphonique avec le Président de la République italienne, Sergio MATTARELLA.",Entretien,2022,True
+2022-11-14,11,19h30,"G20 à Bali - Dîner avec M. Cyril RAMAPHOSA, Président de la République d’Afrique du Sud, M. Paul KAGAME, Président de la République du Rwanda, M. Macky SALL, Président de la République du Sénégal, M. Alberto Angel FERNANDEZ, Président de la Nation argentine, M. Andrés Manuel LOPEZ, Président des Etats-Unis mexicains.",Dîner,2022,True
+2022-11-15,11,Matin,"G20 à Bali - Entretien bilatéral avec M. XI Jinping, Président de la République populaire de Chine.",Entretien,2022,True
+2022-11-15,11,Toute la journée,Sommet des dirigeants du G20 à Bali.,Sommet,2022,True
+2022-11-15,11,Après-midi,"G20 à Bali - Entretien bilatéral avec M. Recep Tayyip ERDOGAN, Président de la République de Turquie.",Entretien,2022,True
+2022-11-15,11,Après-midi,"G20 à Bali - Entretien bilatéral avec M. Joko WIDODO, Président de la République d’Indonésie.",Entretien,2022,True
+2022-11-15,11,19h30,Dîner des dirigeants du Sommet du G20.,Dîner,2022,True
+2022-11-16,11,Toute la journée,Sommet des dirigeants du G20 à Bali.,Sommet,2022,True
+2022-11-16,11,Matin,"Entretien bilatéral avec M. Lee Hsien LOONG, Premier ministre de la République de Singapour.",Entretien,2022,True
+2022-11-16,11,12h00,"Déjeuner de travail avec M. Narendra MODI, Premier ministre de la République d’Inde.",Déjeuner,2022,True
+2022-11-16,11,Après-midi,"Entretien bilatéral avec M. Anthony ALBANESE, Premier ministre d’Australie.",Entretien,2022,True
+2022-11-17,11,Toute la journée,Déplacement au Royaume de Thaïlande.,Voyage officiel,2022,True
+2022-11-18,11,Toute la journée,Déplacement au Royaume de Thaïlande.,Voyage officiel,2022,True
+2022-11-18,11,11h05,"Entretien puis déjeuner de travail avec M. Prayut CHAN-O-CHA, Premier ministre du Royaume de Thaïlande.",Entretien,2022,True
+2022-11-19,11,Toute la journée,Sommet de la Francophonie à Djerba.,Sommet,2022,True
+2022-11-21,11,13h00,"Déjeuner avec Mme Elisabeth BORNE, Première ministre.",Déjeuner,2022,True
+2022-11-21,11,14h45,"Entretien téléphonique avec M. Volodymyr ZELENSKY, Président de la République d'Ukraine.",Entretien,2022,True
+2022-11-21,11,16h00,"Entretien avec Mme Maia SANDU, Présidente de la République de Moldavie puis déplacement à la conférence ministérielle de la Plateforme de soutien à la Moldavie.",Entretien,2022,True
+2022-11-21,11,18h30,"Entretien avec Mme Annalena BAERBOCK, ministre fédérale allemande des Affaires étrangères.",Entretien,2022,True
+2022-11-21,11,20h00,Dîner de travail avec les représentants des industriels européens de l’European Round Table for Industry.,Dîner,2022,True
+2022-11-22,11,13h05,"Déjeuner de travail avec M. Shavkat MIRZIYOÏEV, Président de la République d’Ouzbékistan.",Déjeuner,2022,True
+2022-11-22,11,Après-midi,Visite de l’exposition « Splendeurs des oasis d’Ouzbékistan » au Musée du Louvre et « Sur les routes de Samarcande. Merveilles de soie et d’or » à l'Institut du Monde Arabe en compagnie du couple présidentiel d’Ouzbékistan.,Inauguration,2022,True
+2022-11-22,11,18h00,"Entretien avec M. Gérard LARCHER, Président du Sénat.",Entretien,2022,True
+2022-11-22,11,19h15,"Entretien avec M. Didier MIGAUD, Président de la Haute Autorité pour la transparence de la vie publique (HATVP).",Entretien,2022,True
+2022-11-23,11,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-11-23,11,Après-midi,Visite du salon des maires et des collectivités locales.,Déplacement,2022,True
+2022-11-23,11,20h00,Réception des maires de France au Palais de l’Elysée.,Réception,2022,True
+2022-11-24,11,11h30,Remise de décoration individuelle.,Cérémonie officielle,2022,True
+2022-11-24,11,13h15,"Entretien M. Micheál MARTIN, Premier ministre de la République d’Irlande.",Entretien,2022,True
+2022-11-24,11,16h00,"Entretien avec Mme Yaël BRAUN-PIVET, Présidente de l’Assemblée nationale.",Entretien,2022,True
+2022-11-25,11,Toute la journée,Déplacement dans le cadre de la journée internationale de lutte contre les violences faites aux femmes en Côte-d’Or.,Déplacement,2022,True
+2022-11-26,11,11h15,"Entretien avec Emomali RAHMON, Président de la République du Tadjikistan.",Entretien,2022,True
+2022-11-27,11,12h00,"Entretien téléphonique avec le Premier ministre de la République d’Irak, M. Mohammed Chia AL-SOUDANI.",Entretien,2022,True
+2022-11-29,11,08h00,"Entretien avec M. TOKAIEV, Président de la République du Kazakhstan",Entretien,2022,True
+2022-11-29,11,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-11-30,11,Toute la journée,Visite d'État aux Etats-Unis d'Amérique.,Voyage officiel,2022,True
+2022-11-30,11,17h00,Discours en l’honneur de la communauté française résidente aux Etats-Unis.,Discours,2022,True
+2022-12-01,12,Toute la journée,Visite d'État aux Etats-Unis d'Amérique.,Voyage officiel,2022,True
+2022-12-02,12,Toute la journée,Visite d'État aux Etats-Unis d'Amérique.,Voyage officiel,2022,True
+2022-12-04,12,12h00,"Entretien téléphonique avec le Premier ministre de la République d’Irak, M. Mohammed Chia AL-SOUDANI.",Entretien,2022,True
+2022-12-05,12,Matin,10ème anniversaire de l’ouverture du Site-mémorial du Camp des Milles.,Cérémonie officielle,2022,True
+2022-12-05,12,Après-midi,Conseil national de la refondation consacré à l’éducation dans un collège d'Aix-en-Provence.,Déplacement,2022,True
+2022-12-06,12,Toute la journée,Sommet UE-Balkans occidentaux à Tirana en République d'Albanie.,Sommet,2022,True
+2022-12-07,12,09h00,"Entretien avec M. Mohamed BAZOUM, Président de la République du Niger.",Entretien,2022,True
+2022-12-07,12,10h30,Conseil des ministres.,Conseil des ministres,2022,True
+2022-12-08,12,12h35,Déplacement à l’occasion du CNR « santé » dans le département de la Vienne.,Déplacement,2022,True
+2022-12-09,12,Après-midi,Sommet des pays du sud de l’Union européenne « EU MED » à Alicante en Espagne.,Sommet,2022,True
+2022-12-12,12,Toute la journée,Session plénière du Conseil national de la refondation (CNR).,Réunion,2022,True
+2022-12-12,12,20h30,"Dîner de travail avec M. Jonas Gahr STØRE, Premier ministre du Royaume de Norvège, et Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Dîner,2022,True
+2022-12-13,12,Matin,Conférence « Solidaires du peuple ukrainien ».,Conférence,2022,True
+2022-12-13,12,Après-midi,Conférence franco-ukrainienne pour la résilience et la reconstruction.,Conférence,2022,True
+2022-12-13,12,20h20,"Dîner de travail avec M. HUN Sen, Premier ministre du Royaume du Cambodge et Président de l'ASEAN.",Dîner,2022,True
+2022-12-15,12,Toute la journée,Conseil européen.,Sommet,2022,True
+2022-12-19,12,Toute la journée,Déplacement à bord du porte-avions Charles de Gaulle auprès des forces armées pour partager un repas de noël.,Déplacement,2022,True
+2022-12-20,12,08h05,Deuxième Sommet de Bagdad pour la coopération et le partenariat au Royaume hachémite de Jordanie.,Sommet,2022,True
+2022-12-22,12,10h00,Conseil des ministres.,Conseil des ministres,2022,True
+2022-12-23,12,Après-midi,"Entretien téléphonique avec M. Ilham ALIEV, le Président de la République  d’Azerbaïdjan.",Entretien,2022,True
+2022-12-31,12,20h00,Vœux 2023 aux Français.,Discours,2022,True
+2023-01-03,01,13h00,"Entretien avec le Premier ministre du Royaume de Suède, M. Ulf KRISTERSSON.",Déjeuner,2023,True
+2023-01-04,01,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-01-04,01,Après-midi,"Entretien téléphonique avec M. Volodymyr Zelensky, Président de la République d'Ukraine.",Entretien,2023,True
+2023-01-05,01,11h00,Cérémonie de la galette de l’Epiphanie.,Discours,2023,True
+2023-01-06,01,Matin,"Vœux aux acteurs de la santé depuis le Centre Hospitalier Sud Francilien (CHSF) à Evry, en Essonne.",Discours,2023,True
+2023-01-09,01,09h00,Participation par visioconférence à la Conférence internationale pour un Pakistan résilient au changement climatique.,Conférence,2023,True
+2023-01-09,01,17h00,Vœux aux autorités religieuses.,Réception,2023,True
+2023-01-09,01,18h30,"Visite du chantier de la cathédrale Notre-Dame de Paris avec M. Fumio Kishida, Premier ministre du Japon.",Déplacement,2023,True
+2023-01-09,01,20h00,"Dîner de travail avec M. Fumio Kishida, Premier ministre du Japon.",Entretien,2023,True
+2023-01-10,01,10h00,"Entretien avec Andrej Babiš, ancien président du gouvernement de République tchèque.",Entretien,2023,True
+2023-01-10,01,12h00,Vœux au Conseil constitutionnel.,Réception,2023,True
+2023-01-11,01,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-01-11,01,13h00,"Entretien avec M. Entretien avec M. AZALI Assoumani, Président de l’Union des Comores, Président de l’Union des Comores.",Entretien,2023,True
+2023-01-16,01,12h30,"Déjeuner avec Mme Ursula VON DER LEYEN, Présidente de la Commission européenne.",Déjeuner,2023,True
+2023-01-16,01,15h30,"Entretien avec le Général d'armée Thierry BURKHARD, Chef d'État-Major des armées.",Entretien,2023,True
+2023-01-17,01,09h30,Conseil de défense et de sécurité nationale.,Conseil de défense,2023,True
+2023-01-17,01,11h30,Remerciements aux contributeurs de la Présidence française du Conseil de l’Union européenne.,Réception,2023,True
+2023-01-17,01,15h30,"Entretien téléphonique avec Mme Giorgia MELONI, Présidente du Conseil des ministres de la République italienne.",Entretien,2023,True
+2023-01-17,01,16h00,"Entretien avec Mme Catherine COLONNA, ministre de l'Europe et des Affaires étrangères.",Entretien,2023,True
+2023-01-17,01,17h30,"Entretien en visioconférence avec M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Entretien,2023,True
+2023-01-17,01,18h30,Cérémonie de remise de décoration collective.,Réception,2023,True
+2023-01-18,01,09h00,"Rencontre avec Adam SILVER, Commissioner de la National Basketball Association (NBA) et M. Jean-Pierre SIUTAT, Président de la Fédération Française de Basket-ball (FFBB).",Rencontre,2023,True
+2023-01-18,01,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-01-18,01,12h00,"Entretien avec M. Sébastien LECORNU, ministre des Armées.",Entretien,2023,True
+2023-01-18,01,13h00,"Déjeuner avec Mme Elisabeth BORNE, Première ministre",Entretien,2023,True
+2023-01-18,01,18h00,"Réunion de suivi de la mise en œuvre des vœux aux acteurs de la santé en présence de Mme Elisabeth BORNE, Première ministre, M. François BRAUN, ministre de la Santé et de la Prévention.",Réunion,2023,True
+2023-01-19,01,Toute la journée,Déplacement à Barcelone à l’occasion du 27ème Sommet franco-espagnol.,Sommet,2023,True
+2023-01-20,01,Toute la journée,Vœux aux armées depuis la base aérienne 118 de Mont-de-Marsan.,Cérémonie officielle,2023,True
+2023-01-22,01,11h00,"Célébration des 60 ans du traité de l’Elysée, en présence de M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Cérémonie officielle,2023,True
+2023-01-22,01,13h00,Conseil des ministres franco-allemand.,Conseil des ministres,2023,True
+2023-01-22,01,18h00,Conseil franco-allemand de défense et de sécurité.,Conseil de défense,2023,True
+2023-01-22,01,19h00,"Dîner avec M. Olaf SCHOLZ, Chancelier de la République fédérale d’Allemagne.",Dîner,2023,True
+2023-01-23,01,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-01-24,01,13h00,"Déjeuner avec M. William RUTO, Président de la République du Kenya.",Déjeuner,2023,True
+2023-01-24,01,17h00,"Entretien téléphonique avec M. Volodymyr Zelensky, Président de la République d'Ukraine.",Entretien,2023,True
+2023-01-25,01,13h00,"Déjeuner avec M. Alassane OUATTARA, Président de la République de Côte d’Ivoire.",Déjeuner,2023,True
+2023-01-26,01,09h30,Conseil de planification écologique.,Conseil des ministres,2023,True
+2023-01-26,01,12h00,Visite inaugurale du centre « Station debout ».,Déplacement,2023,True
+2023-01-26,01,16h00,"Entretien téléphonique avec M. Luiz Inacio Lula Da Silva, Président de la République fédérative du Brésil.",Entretien,2023,True
+2023-01-26,01,17h00,"Entretien avec M. Umaro Sissoco EMBALO, Président de République de Guinée-Bissau.",Entretien,2023,True
+2023-01-26,01,20h15,"Dîner de travail avec M. Mohammed Chia AL-SOUDANI, Premier ministre de la République d’Irak.",Dîner,2023,True
+2023-01-27,01,19h00,Réception à l’occasion du Nouvel an du calendrier lunaire.,Réception,2023,True
+2023-01-29,01,17h00,"Entretien téléphonique avec M. Benyamin NETANYAHOU, Premier ministre de l’État d’Israël.",Entretien,2023,True
+2023-01-30,01,12h00,"Entretien avec Mme Catherine COLONNA, ministre de l'Europe et des Affaires étrangères.",Entretien,2023,True
+2023-01-30,01,13h15,"Déjeuner avec Mme Elisabeth BORNE, Première ministre.",Déjeuner,2023,True
+2023-01-30,01,18h15,"Entretien suivi d’un dîner avec M. Mark RUTTE, Premier ministre des Pays-Bas.  La Haye",Entretien,2023,True
+2023-01-31,01,11h00,"Entretien avec M. Sébastien LECORNU, ministre des Armées.",Entretien,2023,True
+2023-01-31,01,12h00,"Entretien avec M. Gérald DARMANIN, ministre de l’Intérieur et des Outre-mer.",Entretien,2023,True
+2023-01-31,01,13h15,"Déjeuner avec Macky SALL, Président de la République du Sénégal.",Déjeuner,2023,True
+2023-01-31,01,17h00,"Entretien avec M. Rouslan STEFANTCHOUK, Président de la Rada.",Entretien,2023,True
+2023-01-31,01,18h30,"Entretien avec M. Oleksiy REZNIKOV, ministre de la Défense de la République d’Ukraine.",Entretien,2023,True
+2023-02-01,02,11h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-02-01,02,13h15,"Déjeuner avec M. Charles MICHEL, Président du Conseil européen.",Déjeuner,2023,True
+2023-02-01,02,18h30,Visioconférence de revue des engagements « Marseille en Grand ».,Réunion,2023,True
+2023-02-02,02,20h00,"Dîner avec M. Benyamin NETANYAHOU, Premier ministre de l’Etat d’Israël.",Dîner,2023,True
+2023-02-03,02,11h00,Conseil de politique du nucléaire.,Réunion,2023,True
+2023-02-03,02,13h00,"Déjeuner avec M. François HOLLANDE, ancien Président de la République.",Déjeuner,2023,True
+2023-02-06,02,10h00,"Entretien avec Mme Elisabeth BORNE, Première ministre.",Entretien,2023,True
+2023-02-06,02,12h00,Entretien avec Mme Dominique ERIGNAC et ses enfants.,Entretien,2023,True
+2023-02-06,02,13h00,"Déjeuner de travail avec M. Mahamat Idriss Déby Itno, Président de transition, chef de l’Etat, Président de la République du Tchad.",Déjeuner,2023,True
+2023-02-06,02,16h00,"Entretien téléphonique avec M. Nikol PACHINIAN, Premier ministre d’Arménie.",Entretien,2023,True
+2023-02-06,02,17h00,"Visioconférence avec Mme Ursula Von der Leyen, Présidente de la Commission européenne, M. Charles Michel, Président du Conseil européen et M. Olaf Scholz, Chancelier de la République fédérale d’Allemagne.",Réunion,2023,True
+2023-02-06,02,17h45,"Entretien téléphonique avec Recep Tayyip Erdogan, Président de la République de Turquie.",Entretien,2023,True
+2023-02-06,02,18h00,"Entretien téléphonique avec la Présidente du Conseil des ministres d’Italie, Mme Giorgia MELONI.",Entretien,2023,True
+2023-02-06,02,18h30,Entretien téléphonique avec le Prince Albert II de Monaco.,Entretien,2023,True
+2023-02-07,02,10h30,"Entretien téléphonique avec Ilham Aliev, Président de la République d'Azerbaïdjan.",Entretien,2023,True
+2023-02-07,02,13h00,"Déjeuner avec M. Nicolas Sarkozy, ancien Président de la République.",Déjeuner,2023,True
+2023-02-07,02,20h00,"Dîner de travail avec M. Abiy Ahmed, Premier ministre d’Ethiopie.",Dîner,2023,True
+2023-02-08,02,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-02-08,02,21h00,"Accueil du Président de la République d'Ukraine, M. Volodymyr Zelensky et du Chancelier de la République fédérale d’Allemagne, M. Olaf Scholz.",Entretien,2023,True
+2023-02-09,02,Toute la journée,Conseil européen.,Sommet,2023,True
+2023-02-13,02,12h00,"Entretien avec Mme Elisabeth BORNE, Première ministre.",Entretien,2023,True
+2023-02-13,02,13h00,"Entretien avec M. Tony BLAIR, ancien Premier ministre du Royaume-Uni.",Entretien,2023,True
+2023-02-13,02,17h30,"Entretien avec Mme Chrysoula ZACHAROPOULOU, secrétaire d'État chargée du Développement, de la Francophonie et des Partenariats internationaux.",Entretien,2023,True
+2023-02-13,02,20h30,"Dîner avec M. Gérard LARCHER, Président du Sénat.",Dîner,2023,True
+2023-02-14,02,09h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2023,True
+2023-02-14,02,12h00,"Visioconférence avec M. Narendra MODI, Premier ministre de la République de l’Inde.",Réunion,2023,True
+2023-02-14,02,13h15,"Déjeuner avec Mme Yaël BRAUN-PIVET, Présidente de l’Assemblée nationale.",Déjeuner,2023,True
+2023-02-15,02,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-02-15,02,12h00,"Entretien avec M. Wang YI, directeur du bureau de la commission centrale chinoise en charge des affaires étrangères et conseiller des affaires d’Etat.",Entretien,2023,True
+2023-02-15,02,16h00,"Entretien avec M. Gianni INFANTINO, Président de la Fédération Internationale de Football Association (FIFA).",Entretien,2023,True
+2023-02-15,02,17h00,"Entretien avec le Cheikh Tamim ben Hamad AL THANI, Emir du Qatar.",Entretien,2023,True
+2023-02-16,02,10h00,Réunion plénière du Forum de l’Islam de France (FORIF).,Réunion,2023,True
+2023-02-16,02,12h00,Remise de décoration individuelle.,Cérémonie officielle,2023,True
+2023-02-16,02,13h15,"Déjeuner avec M. Mohamed BAZOUM, Président de la République du Niger.",Déjeuner,2023,True
+2023-02-16,02,16h00,"Entretien avec M. Masrour BARZANI, Premier ministre du Gouvernement régional du Kurdistan d’Irak.",Entretien,2023,True
+2023-02-17,02,Toute la journée,Déplacement en Allemagne à l’occasion de la 59ème Conférence de Munich sur la sécurité 2023.,Voyage officiel,2023,True
+2023-02-20,02,17h00,Réception des acteurs de la French Tech.,Réception,2023,True
+2023-02-21,02,05h00,Déplacement au marché d'intérêt national de Rungis.,Déplacement,2023,True
+2023-02-21,02,11h45,"Entretien avec Bruno Le Maire, ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique.",Entretien,2023,True
+2023-02-22,02,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-02-22,02,12h00,"Entretien avec Isabelle Rome, ministre déléguée auprès de la Première ministre, chargée de l'Égalité entre les femmes et les hommes, de la Diversité et de l'Égalité des chances.",Entretien,2023,True
+2023-02-22,02,13h15,"Déjeuner avec Elisabeth Borne, Première ministre.",Déjeuner,2023,True
+2023-02-22,02,15h30,Entretien avec Mme Christiane Lambert et des représentants de la Fédération nationale des syndicats d'exploitants agricoles.,Entretien,2023,True
+2023-02-22,02,16h45,Rencontre avec des représentants des Jeunes Agriculteurs.,Rencontre,2023,True
+2023-02-22,02,18h00,Remise de décorations collective.,Cérémonie officielle,2023,True
+2023-02-23,02,10h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2023,True
+2023-02-23,02,13h00,Déjeuner avec des représentants de l’Association nationale des industries alimentaires.,Déjeuner,2023,True
+2023-02-23,02,15h30,Rencontre avec des représentants de la Coordination rurale.,Rencontre,2023,True
+2023-02-23,02,16h15,Rencontre avec des représentants de la Confédération paysanne.,Rencontre,2023,True
+2023-02-23,02,17h00,Rencontre avec des représentants du Mouvement de défense des exploitants familiaux.,Rencontre,2023,True
+2023-02-23,02,17h45,"Rencontre avec Sébastien WIindsor, Président des Chambres d'agriculture.",Rencontre,2023,True
+2023-02-24,02,15h00,Visioconférence des chefs d’Etat et de gouvernement du G7.,Réunion,2023,True
+2023-02-24,02,17h00,Réception des acteurs du monde agricole outre-mer.,Réception,2023,True
+2023-02-25,02,Toute la journée,Inauguration et visite du salon international de l’agriculture.,Déplacement,2023,True
+2023-03-01,03,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-03-01,03,Après-midi,Déplacement au Gabon.,Voyage officiel,2023,True
+2023-03-02,03,Toute la journée,Déplacement au Gabon.,Voyage officiel,2023,True
+2023-03-03,03,Matin,Déplacement en Angola.,Voyage officiel,2023,True
+2023-03-03,03,Après-midi,Déplacement au Congo-Brazzaville.,Voyage officiel,2023,True
+2023-03-04,03,Toute la journée,Déplacement en République Démocratique du Congo.,Voyage officiel,2023,True
+2023-03-07,03,11h00,Réunion de ministres « Quartier 2030 ».,Réunion,2023,True
+2023-03-07,03,13h00,"Déjeuner de travail avec M. Patrice TALON, Président de la République du Bénin.",Déjeuner,2023,True
+2023-03-07,03,17h45,"Entretien téléphonique avec M. Joe BIDEN, Président des Etats-Unis d’Amérique.",Entretien,2023,True
+2023-03-08,03,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-03-08,03,12h00,"Entretien avec Mme Catherine COLONNA, ministre de l’Europe et des Affaires étrangères.",Entretien,2023,True
+2023-03-08,03,13h15,"Déjeuner avec Mme Elisabeth Borne, Première ministre.",Déjeuner,2023,True
+2023-03-08,03,16h00,Hommage national à Gisèle Halimi.,Cérémonie officielle,2023,True
+2023-03-08,03,18h00,Remise de décoration collective.,Cérémonie officielle,2023,True
+2023-03-09,03,09h30,Echange avec les députés de la majorité membres de la commission de défense  nationale et des forces armées.,Réunion,2023,True
+2023-03-09,03,12h00,"Remise du rapport annuel de la Cour des comptes par M. Pierre Moscovici, Premier président de la Cour des comptes.",Remise de rapport,2023,True
+2023-03-09,03,18h00,Discours à l’occasion des 40 ans du Comité consultatif national d’éthique.,Discours,2023,True
+2023-03-09,03,20h30,Dîner sur le thème de la fin de vie.,Dîner,2023,True
+2023-03-10,03,Toute la journée,36ème Sommet Franco-Britannique.,Sommet,2023,True
+2023-03-10,03,16h00,"Entretien avec Mia Mottley, Première ministre de la Barbade.",Entretien,2023,True
+2023-03-11,03,10h00,Cérémonie nationale d’hommage aux victimes du terrorisme.,Cérémonie officielle,2023,True
+2023-03-13,03,11h00,"Entretien avec M. Gérald DARMANIN, ministre de l’Intérieur.",Entretien,2023,True
+2023-03-13,03,12h30,"Entretien téléphonique avec M. Kyriákos MITSOTAKIS, Premier ministre de  la République hellénique.",Entretien,2023,True
+2023-03-13,03,15h30,Rencontre avec les présidents des associations d’élus locaux.,Entretien,2023,True
+2023-03-13,03,20h00,"Dîner de travail avec Viktor Orban, Premier ministre de Hongrie.",Dîner,2023,True
+2023-03-14,03,10h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2023,True
+2023-03-14,03,15h00,"Entretien avec M. Tony ESTANGUET, Président du COJOP Paris 2024 et M.  Thomas JOLLY, directeur artistique des cérémonies.",Entretien,2023,True
+2023-03-14,03,16h30,Rencontre avec les agents des services de l'Etat mobilisés en Ile-de-France .,Déplacement,2023,True
+2023-03-14,03,16h30,Réunion de travail suivi d’une rencontre avec les agents des services de l’Etat mobilisés en Ile de France sur les Jeux Olympiques et Paralympiques de Paris 2024. Préfecture de la Région Ile-de-France.,Rencontre,2023,True
+2023-03-14,03,19h00,Mardis de l’Elysée.,Rencontre,2023,True
+2023-03-15,03,10h00,Conseil des ministres.,Conseil des ministres,2023,True
+2023-03-15,03,13h15,"Déjeuner avec M. Sébastien LECORNU, ministre des Armées et les Chefs  d’état-major des Armées.",Déjeuner,2023,True
+2023-03-15,03,20h30,"Réunion avec Mme Elisabeth BORNE, Première ministre, M. Olivier DUSSOPT, ministre du Travail, du Plein emploi et de l&#39;Insertion et M. Franck RIESTER, ministre délégué chargé des Relations avec le Parlement.",Entretien,2023,True
+2023-03-16,03,08h15,Réunion avec des membres du Gouvernement et des représentants de la  majorité.,Réunion,2023,True
+2023-03-16,03,10h00,Intervention pour la clôture des Etats Généraux de la diplomatie. Ministère des Affaires étrangères et de l’Europe.,Discours,2023,True
+2023-03-16,03,12h00,Réunion avec des membres du Gouvernement et des représentants de la majorité.,Entretien,2023,True
+2023-03-16,03,13h00,"Déjeuner avec M. Serge WEINBERG, Président du Conseil d’Administration de SANOFI, M. Paul HUDSON, Directeur général de SANOFI, et Mme Audrey DERVELOY, Présidente de SANOFI France.",Déjeuner,2023,True
+2023-03-16,03,14h00,Réunion avec des membres du Gouvernement et des représentants de la majorité.,Réunion,2023,True
+2023-03-16,03,14h40,Conseil des ministres.,Conseil des ministres,2023,True
+2023-03-16,03,16h00,"Entretien M. Sultan AL JABER, Président de la COP28.",Entretien,2023,True
+2023-03-17,03,10h00,"Entretien téléphonique avec Mme. Maia SANDU, Présidente de la République  de Moldavie.",Entretien,2023,True
+2023-03-17,03,10h30,Réception des lauréats de la deuxième promotion de l’initiative Marianne pour  les défenseurs des Droits de l'Homme.,Réception,2023,True
+2023-03-17,03,12h15,Remise de décoration individuelle.,Cérémonie officielle,2023,True
