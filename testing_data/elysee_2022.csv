@@ -713,9 +713,9 @@ date,month,time,desc,type,year,event,dejeuner,entretien,deplacement,voyage
 2023-03-13,03,20h00,"Dîner de travail avec Viktor Orban, Premier ministre de Hongrie.",Dîner,2023,True,False,False,False,False
 2023-03-14,03,10h00,Conseil de défense et de sécurité nationale.,Conseil de défense,2023,True,False,False,False,False
 2023-03-14,03,15h00,"Entretien avec M. Tony ESTANGUET, Président du COJOP Paris 2024 et M.  Thomas JOLLY, directeur artistique des cérémonies.",Entretien,2023,True,False,True,False,False
-2023-03-14,03,16h30,Rencontre avec les agents des services de l'Etat mobilisés en Ile-de-France .,Déplacement,2023,True,False,False,True,False
 2023-03-14,03,16h30,Réunion de travail suivi d’une rencontre avec les agents des services de l’Etat mobilisés en Ile de France sur les Jeux Olympiques et Paralympiques de Paris 2024. Préfecture de la Région Ile-de-France.,Rencontre,2023,True,False,False,False,False
-2023-03-14,03,19h00,Mardis de l’Elysée.,Rencontre,2023,True,False,False,False,False
+2023-03-14,03,16h30,Rencontre avec les agents des services de l'Etat mobilisés en Ile-de-France .,Déplacement,2023,True,False,False,True,False
+2023-03-14,03,19h00,Mardis de l'Élysée.,Rencontre,2023,True,False,False,False,False
 2023-03-15,03,10h00,Conseil des ministres.,Conseil des ministres,2023,True,False,False,False,False
 2023-03-15,03,13h15,"Déjeuner avec M. Sébastien LECORNU, ministre des Armées et les Chefs  d’état-major des Armées.",Déjeuner,2023,True,True,False,False,False
 2023-03-15,03,20h30,"Réunion avec Mme Elisabeth BORNE, Première ministre, M. Olivier DUSSOPT, ministre du Travail, du Plein emploi et de l&#39;Insertion et M. Franck RIESTER, ministre délégué chargé des Relations avec le Parlement.",Entretien,2023,True,False,True,False,False
@@ -729,3 +729,20 @@ date,month,time,desc,type,year,event,dejeuner,entretien,deplacement,voyage
 2023-03-17,03,10h00,"Entretien téléphonique avec Mme. Maia SANDU, Présidente de la République  de Moldavie.",Entretien,2023,True,False,True,False,False
 2023-03-17,03,10h30,Réception des lauréats de la deuxième promotion de l’initiative Marianne pour  les défenseurs des Droits de l'Homme.,Réception,2023,True,False,False,False,False
 2023-03-17,03,12h15,Remise de décoration individuelle.,Cérémonie officielle,2023,True,False,False,False,False
+2023-03-20,03,11h30,Entretien avec la Secrétaire générale de la Francophonie Louise Mushikiwabo.,Entretien,2023,True,False,True,False,False
+2023-03-20,03,13h00,Déjeuner avec la Première ministre Elisabeth Borne.,Déjeuner,2023,True,True,False,False,False
+2023-03-21,03,09h00,Réunion avec des membres du Gouvernement et des représentants de la majorité.,Réunion,2023,True,False,False,False,False
+2023-03-21,03,12h00,Accueil d'Olivier Dubois.,Entretien,2023,True,False,True,False,False
+2023-03-21,03,13h00,Déjeuner avec la Présidente de l’Assemblée nationale Yaël Braun-Pivet et le Président du Sénat Gérard Larcher.,Déjeuner,2023,True,True,False,False,False
+2023-03-21,03,18h00,Réception des parlementaires de la majorité.,Réception,2023,True,False,False,False,False
+2023-03-22,03,10h00,Conseil des ministres.,Conseil des ministres,2023,True,False,False,False,False
+2023-03-22,03,13h00,Interview au 13h de TF1 et France 2.,Interview,2023,True,False,False,False,False
+2023-03-23,03,Après-midi,Conseil européen.,Sommet,2023,True,False,False,False,False
+2023-03-24,03,Toute la journée,Conseil européen.,Sommet,2023,True,False,False,False,False
+2023-03-24,03,16h30,"Entretien téléphonique avec M. Abdelmadjid TEBBOUNE, Président de la République algérienne démocratique et populaire.",Entretien,2023,True,False,True,False,False
+2023-03-24,03,18h00,"Entretien avec Rodrigo Chaves Robles, Président de la République du Costa-Rica.",Dîner,2023,True,False,False,False,False
+2023-03-25,03,12h00,"Entretien téléphonique avec le Premier ministre de la République d’Irak, M. Mohammed Chia AL-SOUDANI.",Entretien,2023,True,False,True,False,False
+2023-03-26,03,18h00,Entretien téléphonique avec le Prince héritier d’Arabie Saoudite Mohammed bin Salman bin Abdulaziz AL-SAOUD.,Entretien,2023,True,False,True,False,False
+2023-03-28,03,20h00,Dîner de travail en préparation du Sommet « Nouveau Pacte financier mondial ».,Dîner,2023,True,False,False,False,False
+2023-03-30,03,Toute la journée,Déplacement à Savines-le-Lac dans les Hautes-Alpes pour présenter le Plan eau.,Déplacement,2023,True,False,False,True,False
+2023-03-31,03,10h30,Cérémonie d’Hommage national au Maréchal des logis-chef Arnaud Blanc,Cérémonie officielle,2023,True,False,False,False,False
