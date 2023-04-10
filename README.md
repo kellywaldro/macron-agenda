@@ -6,7 +6,7 @@
 
 ## The Data 
 
-In elysee_scrape.ipynb I scrape every official event that is listed on the [official Elysée Agenda](https://www.elysee.fr/agenda) since May 2017, using BeautifulSoup. The output is saved to **agenda.csv**.
+In elysee_scrape.ipynb I scrape every official event that is listed on the [official Elysée Agenda](https://www.elysee.fr/agenda) since May 2017, using BeautifulSoup. The output is saved to **elysée.csv**.
 
 ## Analysis 
 
