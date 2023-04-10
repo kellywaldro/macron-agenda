@@ -25931,15 +25931,15 @@
         "date": "14",
         "month": "mars-2023",
         "time": "16h30",
-        "desc": "R\u00e9union de travail suivi d\u2019une rencontre avec les agents des services de l\u2019Etat mobilis\u00e9s en Ile de France sur les Jeux Olympiques et Paralympiques de Paris 2024. Pr\u00e9fecture de la R\u00e9gion Ile-de-France.",
-        "type": "Rencontre"
+        "desc": "Rencontre avec les agents des services de l'Etat mobilis\u00e9s en Ile-de-France .",
+        "type": "D\u00e9placement"
     },
     {
         "date": "14",
         "month": "mars-2023",
         "time": "16h30",
-        "desc": "Rencontre avec les agents des services de l'Etat mobilis\u00e9s en Ile-de-France .",
-        "type": "D\u00e9placement"
+        "desc": "R\u00e9union de travail suivi d\u2019une rencontre avec les agents des services de l\u2019Etat mobilis\u00e9s en Ile de France sur les Jeux Olympiques et Paralympiques de Paris 2024. Pr\u00e9fecture de la R\u00e9gion Ile-de-France.",
+        "type": "Rencontre"
     },
     {
         "date": "14",
@@ -26138,17 +26138,59 @@
         "type": "Entretien"
     },
     {
+        "date": "27",
+        "month": "mars-2023",
+        "time": "12h00",
+        "desc": "Entretien avec Mme Elisabeth BORNE, Premi\u00e8re ministre.",
+        "type": "Entretien"
+    },
+    {
+        "date": "27",
+        "month": "mars-2023",
+        "time": "13h15",
+        "desc": "D\u00e9jeuner avec des membres du Gouvernement et des repr\u00e9sentants de la majorit\u00e9.",
+        "type": "D\u00e9jeuner"
+    },
+    {
+        "date": "28",
+        "month": "mars-2023",
+        "time": "10h00",
+        "desc": "Conseil des ministres.",
+        "type": "Conseil des ministres"
+    },
+    {
+        "date": "28",
+        "month": "mars-2023",
+        "time": "12h00",
+        "desc": "Conseil de d\u00e9fense et de s\u00e9curit\u00e9 nationale.",
+        "type": "Conseil de d\u00e9fense"
+    },
+    {
+        "date": "28",
+        "month": "mars-2023",
+        "time": "14h00",
+        "desc": "R\u00e9union avec les industriels de l\u2019armement.",
+        "type": "R\u00e9union"
+    },
+    {
         "date": "28",
         "month": "mars-2023",
         "time": "20h00",
-        "desc": "D\u00eener de travail en pr\u00e9paration du Sommet \u00ab Nouveau Pacte financier mondial \u00bb.",
+        "desc": "D\u00eener de travail avec des experts en vue du Sommet \u00ab Nouveau Pacte financier mondial \u00bb.",
         "type": "D\u00eener"
+    },
+    {
+        "date": "29",
+        "month": "mars-2023",
+        "time": "09h00",
+        "desc": "Petit-d\u00e9jeuner de travail avec des repr\u00e9sentants d\u2019entreprises am\u00e9ricaines du num\u00e9rique.",
+        "type": "Rencontre"
     },
     {
         "date": "30",
         "month": "mars-2023",
         "time": "Toute la journ\u00e9e",
-        "desc": "D\u00e9placement \u00e0 Savines-le-Lac dans les Hautes-Alpes pour pr\u00e9senter le Plan eau.",
+        "desc": "D\u00e9placement dans les Hautes-Alpes \u00e0 l\u2019occasion de la pr\u00e9sentation du \u00ab\u00a0Plan Eau\u00a0\u00bb.",
         "type": "D\u00e9placement"
     },
     {
@@ -26157,5 +26199,68 @@
         "time": "10h30",
         "desc": "C\u00e9r\u00e9monie d\u2019Hommage national au Mar\u00e9chal des logis-chef Arnaud Blanc",
         "type": "C\u00e9r\u00e9monie officielle"
+    },
+    {
+        "date": "01",
+        "month": "avril-2023",
+        "time": "13h00",
+        "desc": "Entretien t\u00e9l\u00e9phonique avec M. Volodymyr ZELENSKY, Pr\u00e9sident de l\u2019Ukraine.",
+        "type": "Entretien"
+    },
+    {
+        "date": "03",
+        "month": "avril-2023",
+        "time": "09h00",
+        "desc": "R\u00e9ception des membres de la Convention citoyenne sur la fin de vie.",
+        "type": "R\u00e9ception"
+    },
+    {
+        "date": "03",
+        "month": "avril-2023",
+        "time": "12h00",
+        "desc": "D\u00e9jeuner de travail avec Mme Ursula VON DER LEYEN.",
+        "type": "D\u00e9jeuner"
+    },
+    {
+        "date": "04",
+        "month": "avril-2023",
+        "time": "10h00",
+        "desc": "Conseil des ministres.",
+        "type": "Conseil des ministres"
+    },
+    {
+        "date": "04",
+        "month": "avril-2023",
+        "time": "18h00",
+        "desc": "D\u00e9placement \u00e0 Clamart sur le th\u00e8me de la sensibilisation \u00e0 l'autisme.",
+        "type": "D\u00e9placement"
+    },
+    {
+        "date": "05",
+        "month": "avril-2023",
+        "time": "Toute la journ\u00e9e",
+        "desc": "Visite d'\u00c9tat en R\u00e9publique populaire de Chine.",
+        "type": "Voyage officiel"
+    },
+    {
+        "date": "06",
+        "month": "avril-2023",
+        "time": "Toute la journ\u00e9e",
+        "desc": "Visite d'\u00c9tat en R\u00e9publique populaire de Chine.",
+        "type": "Voyage officiel"
+    },
+    {
+        "date": "07",
+        "month": "avril-2023",
+        "time": "Toute la journ\u00e9e",
+        "desc": "Visite d'\u00c9tat en R\u00e9publique populaire de Chine.",
+        "type": "Voyage officiel"
+    },
+    {
+        "date": "08",
+        "month": "avril-2023",
+        "time": "Toute la journ\u00e9e",
+        "desc": "Visite d'\u00c9tat en R\u00e9publique populaire de Chine.",
+        "type": "Voyage officiel"
     }
 ]
